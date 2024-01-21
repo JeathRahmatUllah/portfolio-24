@@ -1,1 +1,10 @@
-<p>skills works!</p>
+<div>
+    <div class="grid grid-cols-1 p-10 gap-3 md:grid-cols-2">
+        <div *ngFor="let skillItem of skills" class="flex items-center border-2 border-tertiary rounded-md p-4">
+            <img src="assets/icons/{{skillItem.icon}}" alt="{{ skillItem.name }}" class="w-16">
+            <div>
+                {{ skillItem.name }}
+            </div>
+        </div>
+    </div>
+</div>
