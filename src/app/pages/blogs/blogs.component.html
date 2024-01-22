@@ -1,9 +1,10 @@
-<div class="container mx-auto mt-8">
-  <div class="border-2 border-white p-6">
+<div class="container mx-auto mt-8 " >
+  <div class="border-2 border-white p-6 rounded-md">
     <article class="prose max-w-full">
-      <h1 class="text-2xl font-bold mb-4 text-green-600">
+      <h1 class="text-2xl font-bold bg-primary text-white hover:bg-primary hover:text-black transition duration-300 ease-in-out">
         The role of Artificial Intelligence in Software Engineering
       </h1>
+      <br>
 
       <div class="text-xl">
         <p>
@@ -43,7 +44,7 @@
 
       <button
         (click)="toggleContent()"
-        class="text-green-600 mt-4 cursor-pointer"
+        class="text-white font-semibold mt-4 cursor-pointer"
       >
         {{ showFullContent ? "See Less" : "See More" }}
       </button>
@@ -53,13 +54,14 @@
 
 <div class="container mx-auto mt-8">
   <!-- Blog Post 2 -->
-  <div class="border-2 border-white p-6">
+  <div class="border-2 border-white p-6 rounded-md">
     <article class="prose max-w-full">
-      <h1 class="text-2xl font-bold mb-4 text-green-600">
+      <h1 class=" text-2xl font-bold bg-primary text-white hover:bg-primary hover:text-black transition duration-300 ease-in-out">
         The Impact of Agile Development on Modern Software Engineering
       </h1>
+      <br>
 
-      <div class="text-xl">
+      <div class="text-xl ">
         <p>
           Agile development has become a cornerstone in modern software
           engineering methodologies. The Agile Manifesto, with its emphasis on
@@ -69,7 +71,7 @@
           requirements and fosters iterative development.
         </p>
 
-        <p *ngIf="showFullContent">
+        <p *ngIf="showFullContent2">
           In this blog post, we'll explore the key principles of Agile
           development and their impact on software engineering processes. From
           user stories and sprints to continuous integration and feedback loops,
@@ -80,10 +82,10 @@
       </div>
 
       <button
-        (click)="toggleContent()"
-        class="text-green-600 mt-4 cursor-pointer"
+        (click)="toggleContent2()"
+        class="text-white font-semibold mt-4 cursor-pointer"
       >
-        {{ showFullContent ? "See Less" : "See More" }}
+        {{ showFullContent2 ? "See Less" : "See More" }}
       </button>
     </article>
   </div>

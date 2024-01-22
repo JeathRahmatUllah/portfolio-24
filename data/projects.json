@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hospital Management System",
+    "description": "Web application for managing hospital operations.",
+    "techStack": "HTML, CSS, Django, PostgresSQL"
+  },
+  {
+    "name": "Travel Mania",
+    "description": "Travel website developed using HTML, CSS, React, PHP, and SQL",
+    "techStack": "HTML, CSS, React, PHP, and SQL"
+  },
+  {
+    "name": "GymRough",
+    "description": "Fitness application built with HTML, CSS, React, and Django.",
+    "techStack": "HTML, CSS, React, Django"
+  }
+]
