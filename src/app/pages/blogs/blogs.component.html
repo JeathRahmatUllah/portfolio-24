@@ -1,0 +1,90 @@
+<div class="container mx-auto mt-8">
+  <div class="border-2 border-white p-6">
+    <article class="prose max-w-full">
+      <h1 class="text-2xl font-bold mb-4 text-green-600">
+        The role of Artificial Intelligence in Software Engineering
+      </h1>
+
+      <div class="text-xl">
+        <p>
+          Artificial Intelligence is one of the oldest concepts, originating
+          from ancient times and myths. However, it was not until the 20th
+          century when old ideas and crude prototypes got practical realization.
+          Many prominent mathematicians, logicians, and computer scientists
+          joined their efforts to define the concepts of “reasoning” and
+          “learning” in the context of computers. The works of Alan Turing,
+          Arthur Samuel, Tom M. Mitchell, and many others created the base for
+          the progress of AI and ML technologies and computer algorithms and
+          programming languages in general. The generally recognized features
+          that define AI are the ability to solve complex problems and the
+          ability to generate information based on the source parameters. This
+          way, researchers focus on the similarities between “human” thinking
+          and “machine” thinking. Artificial Intelligence also should have the
+          ability to learn, with human supervision or without it.
+        </p>
+
+        <p *ngIf="showFullContent">
+          Thanks to the rapid progress of AI and ML technologies, they have been
+          successfully integrated into many key areas of modern life. For
+          example, the bond between AI and software development turned into
+          two-way beneficial cooperation. This means that Artificial
+          Intelligence has two major layers of interaction with software
+          engineering. It is an immensely useful tool that helps developers with
+          numerous tasks. An AI paired with great computational power and data
+          storage capabilities easily outperforms human abilities. It is an
+          object of software developers’ labor. Software engineers are often
+          tasked to create an AI for specific purposes or to integrate an
+          existing AI into a solution that is being developed. Whether you're a
+          seasoned software engineer or a curious AI enthusiast, this blog post
+          aims to provide insights into the symbiotic relationship between
+          software engineering and artificial intelligence.
+        </p>
+      </div>
+
+      <button
+        (click)="toggleContent()"
+        class="text-green-600 mt-4 cursor-pointer"
+      >
+        {{ showFullContent ? "See Less" : "See More" }}
+      </button>
+    </article>
+  </div>
+</div>
+
+<div class="container mx-auto mt-8">
+  <!-- Blog Post 2 -->
+  <div class="border-2 border-white p-6">
+    <article class="prose max-w-full">
+      <h1 class="text-2xl font-bold mb-4 text-green-600">
+        The Impact of Agile Development on Modern Software Engineering
+      </h1>
+
+      <div class="text-xl">
+        <p>
+          Agile development has become a cornerstone in modern software
+          engineering methodologies. The Agile Manifesto, with its emphasis on
+          individuals and interactions, has reshaped the way teams collaborate
+          and deliver software products. Agile practices such as Scrum and
+          Kanban provide a flexible framework that adapts to changing
+          requirements and fosters iterative development.
+        </p>
+
+        <p *ngIf="showFullContent">
+          In this blog post, we'll explore the key principles of Agile
+          development and their impact on software engineering processes. From
+          user stories and sprints to continuous integration and feedback loops,
+          Agile methodologies have revolutionized the way teams approach
+          software development. We'll also discuss challenges and best practices
+          for implementing Agile in various projects.
+        </p>
+      </div>
+
+      <button
+        (click)="toggleContent()"
+        class="text-green-600 mt-4 cursor-pointer"
+      >
+        {{ showFullContent ? "See Less" : "See More" }}
+      </button>
+    </article>
+  </div>
+</div>

@@ -1,5 +1,95 @@
-<div class="p-10 flex justify-center items-center flex-col gap-10 md:flex-row">
-    <img src="assets/jeath.png" alt="Jeath Rahman Ullah" class="w-64">
+<div
+  class="container mx-auto p-10 flex justify-center items-center flex-col gap-10 md:flex-row"
+>
+  <img
+    src="assets/jeath.png"
+    alt="Jeath Rahmat Ullah"
+    class="w-64 rounded-full shadow-md mb-8 md:mb-0 md:mr-8"
+  />
 
-    <div class="text-xl">I'm a software engineer with team leadership, machine learning, and system design expertise. I'm deeply passionate about my work, excel in problem-solving with a strong SDLC knowledge, and stay up-to-date with evolving tech trends.</div>
+  <div class="text-xl font-bold text-center md:text-left">
+    <p class="mb-8">
+      I'm a software engineer with team leadership, machine learning, and system
+      design expertise. I'm deeply passionate about my work, excel in
+      problem-solving with a strong SDLC knowledge, and stay up-to-date with
+      evolving tech trends.
+    </p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="text-xl mb-4 md:text-left">
+        <h3 class="text-2xl underline font-semibold mb-2">
+          Things I am good at:
+        </h3>
+        <ul role="list" class="list-disc pl-5 space-y-3 text-black-400">
+          <li>Solving complex problems</li>
+          <li>Excellent with design & development</li>
+          <li>Learning with pace</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="grid grid-cols-1 p-10 gap-6 md:grid-cols-2"></div>
+
+<div class="flex justify-center items-center">
+  <p class="text-4xl font-bold border-b-4 p-2 inline">Certificates</p>
+</div>
+
+<div class="grid grid-cols-1 p-10 gap-6 md:grid-cols-2">
+  <div
+    *ngFor="let CertificateItem of certificates"
+    class="flex items-center rounded-md p-10 border border-gray-300"
+  >
+    <img
+      src="assets/icons/{{ CertificateItem.image }}"
+      alt="{{ CertificateItem.image }}"
+      class="w-3/4 h-3/4 rounded-md border border-gray-300"
+    />
+
+    <div class="my-10 p-4 font-bold">
+      {{ CertificateItem.context }}
+    </div>
+  </div>
+</div>
+
+<div class="flex justify-center items-center">
+  <p class="text-4xl font-bold border-b-4 p-2 inline">Projects</p>
+</div>
+
+<div
+  class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 container mx-auto mt-8"
+>
+  <!-- Project 1 -->
+  <div class="border-2 border-white p-10 rounded-md bg-white text-black">
+    <h3 class="text-2xl font-bold mb-4">Hospital Management System</h3>
+    <p class="text-lg">Web application for managing hospital operations.</p>
+    <ul class="list-disc pl-5 mt-4">
+      <li>
+        <strong>Technology Stack</strong>: HTML, CSS, Django, PostgresSQL.
+      </li>
+    </ul>
+  </div>
+
+  <!-- Project 2 -->
+  <div class="border-2 border-white p-10 rounded-md bg-white text-black">
+    <h3 class="text-2xl font-bold mb-4">Travel Mania</h3>
+    <p class="text-lg">
+      Travel website developed using HTML, CSS, React, PHP, and SQL.
+    </p>
+    <ul class="list-disc pl-5 mt-4">
+      <li><strong>Technology Stack</strong>: HTML, CSS, React, PHP, SQL</li>
+    </ul>
+  </div>
+
+  <!-- Project 3 -->
+  <div class="border-2 border-white p-10 rounded-md bg-white text-black">
+    <h3 class="text-2xl font-bold mb-4">GymRough</h3>
+    <p class="text-lg">
+      Fitness application built with HTML, CSS, React, and Django.
+    </p>
+    <ul class="list-disc pl-5 mt-4">
+      <li><strong>Technology Stack</strong>: HTML, CSS, React, Django</li>
+    </ul>
+  </div>
 </div>

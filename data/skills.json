@@ -1,82 +1,66 @@
 [
     {
-        "name" : "Python",
+        "name" : " Python",
         "icon": "python.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : " TypeScript",
+        "icon": "ts.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : " JavaScript",
+        "icon": "js.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : " Angular",
+        "icon": "angular.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : " React",
+        "icon": "react.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : " Django",
+        "icon": "django.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : " Tailwind",
+        "icon": "tailwind.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : "Github",
+        "icon": "github.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : "Docker",
+        "icon": "docker.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : "Java",
+        "icon": "java.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : "PHP",
+        "icon": "php.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : "Laravel",
+        "icon": "laravel.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : "PostgreSQL",
+        "icon": "postgresql.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : "Odoo",
+        "icon": "odoo.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : "Tensorflow",
+        "icon": "tensorflow.png"
     },
     {
-        "name" : "Python",
-        "icon": "python.png"
-    },
-    {
-        "name" : "Python",
-        "icon": "python.png"
-    },
-    {
-        "name" : "Python",
-        "icon": "python.png"
-    },
-    {
-        "name" : "Python",
-        "icon": "python.png"
-    },
-    {
-        "name" : "Python",
-        "icon": "python.png"
+        "name" : "Linux",
+        "icon": "linux.png"
     }
 ]

@@ -1,6 +1,10 @@
-<div class="p-4 w-screen overflow-none bg-primary text-white">
+<div class="p-4 w-screen min-h-screen overflow-none bg-primary text-white flex flex-col justify-between gap-5 ">
 
-    <app-navbar></app-navbar>
 
-    <router-outlet></router-outlet>
+    <div>
+        <app-navbar></app-navbar>
+        <router-outlet></router-outlet>
+    </div>
+
+    <app-footer></app-footer>
 </div>

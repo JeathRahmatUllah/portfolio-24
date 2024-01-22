@@ -25,5 +25,13 @@ export class NavbarComponent {
       path: 'about',
       name: "About"
     },
+    {
+      path: 'resume',
+      name: "Resume"
+    },
+    {
+      path: 'blogs',
+      name: "Blogs"
+    },
   ]
 }
