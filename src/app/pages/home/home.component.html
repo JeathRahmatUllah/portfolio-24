@@ -4,7 +4,7 @@
   <img
     src="assets/jeath.png"
     alt="Jeath Rahmat Ullah"
-    class="w-64 rounded-s shadow-md mb-8 md:mb-0 md:mr-8"
+    class="w-64 rounded-s shadow-md mb-8 md:mb-0 md:mr-8 hover:scale-110"
   />
 
   <div class="text-xl font-bold text-center md:text-left">
@@ -30,13 +30,13 @@
 <div class="grid grid-cols-1 p-10 gap-6 md:grid-cols-2"></div>
 
 <div class="flex justify-center items-center">
-  <p class="text-4xl font-bold border-b-4 p-2 inline">Certificates</p>
+  <p class="text-4xl font-bold border-b-4 p-2 inline hover:scale-110">Certificates</p>
 </div>
 
-<div class="grid grid-cols-1 p-10 gap-6 md:grid-cols-2">
+<div class="grid grid-cols-1 p-10 gap-6 md:grid-cols-2 ">
   <div
     *ngFor="let CertificateItem of certificates"
-    class="flex items-center rounded-md p-10 border border-gray-300"
+    class="flex items-center rounded-md p-10 border border-gray-300 "
   >
     <img
       src="assets/icons/{{ CertificateItem.image }}"
@@ -44,14 +44,14 @@
       class="w-3/4 h-3/4 rounded-md border border-gray-300"
     />
 
-    <div class="inline-block px-4 py-3 border border-black-500 rounded-md bg-white text-primary hover:bg-primary hover:text-black transition duration-300 ease-in-out m-3">
+    <div class="inline-block px-4 py-3 border border-black-500 rounded-md bg-white text-black hover:bg-primary hover:text-white transition duration-300 ease-in-out m-3 hover:scale-110">
       {{ CertificateItem.context }}
     </div>
   </div>
 </div>
 
 <div class="flex justify-center items-center">
-  <p class="text-4xl font-bold border-b-4 p-2 inline">Projects</p>
+  <p class="text-4xl font-bold border-b-4 p-2 inline hover:scale-110">Projects</p>
 </div>
 
 <div
@@ -59,10 +59,10 @@
 >
   <div
     *ngFor="let project of projects"
-    class="border-2 border-white p-10 rounded-md bg-white text-black"
+    class="border-2 border-white p-10 rounded-md bg-primary text-white mr-8"
   >
     <div
-      class="inline-block px-6 py-3 border border-black-500 rounded-md bg-primary text-white hover:bg-primary hover:text-black transition duration-300 ease-in-out"
+      class="inline-block px-6 py-3 border border-black-500 rounded-md hover:scale-110 bg-primary text-white hover:bg-white hover:text-black transition duration-300 ease-in-out font-semibold"
     >
       {{ project.name }}
       
@@ -70,12 +70,12 @@
     <div class="my-10 p-4">
 
       
-      <p> Description: {{ project.description }}</p>
+      <p class="font-semibold"> Description: {{ project.description }}</p>
       <br />
       <br />
       
 
-      <p>Tech Stack: {{ project.techStack }}</p>
+      <p class="font-semibold">Tech Stack: {{ project.techStack }}</p>
     </div>
   </div>
 </div>
