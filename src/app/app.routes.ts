@@ -5,6 +5,7 @@ import { SkillsComponent } from './pages/skills/skills.component';
 import { ResumeComponent } from './pages/resume/resume.component';
 import { BlogsComponent } from './pages/blogs/blogs.component';
 
+
 export const routes: Routes = [
   {
     path: '',

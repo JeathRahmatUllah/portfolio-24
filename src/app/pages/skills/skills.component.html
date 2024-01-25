@@ -1,9 +1,10 @@
 <div class="flex justify-center items-center">
   <div class="grid grid-cols-1 p-10 gap-3 md:grid-cols-2">
     <div
-      *ngFor="let skillItem of skills"
+      *ngFor="let skillItem of skills | async  "
       class="flex items-center border-2 border-tertiary rounded-md p-4 mb-1 mt-1 mr-4 ml-4 hover:scale-110 "
     >
+    
       <img
         src="assets/icons/{{ skillItem.icon }}"
         alt="{{ skillItem.name }}"
