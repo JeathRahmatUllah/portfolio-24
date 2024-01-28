@@ -1,5 +1,7 @@
-<div class="container mx-auto mt-8 " >
-  <div class="border-2 border-white p-6 rounded-md hover:scale-110">
+<div class="grid grid-cols-3 ml-10 gap-1 items-center flex-justify-center " >
+    <!-- Blog Post 1 -->
+
+  <div class="max-w-md w-full p-4 border border-solid border-gray-300 rounded-lg shadow-md ">
     <article class="prose max-w-full">
       <h1 class="text-2xl font-bold bg-primary text-white hover:bg-primary hover:text-black transition duration-300 ease-in-out">
         The role of Artificial Intelligence in Software Engineering
@@ -50,11 +52,9 @@
       </button>
     </article>
   </div>
-</div>
+    <!-- Blog Post 2 -->
 
-<div class="container mx-auto mt-8">
-  <!-- Blog Post 2 -->
-  <div class="border-2 border-white p-6 rounded-md hover:scale-110">
+  <div class="max-w-md w-full p-4 border border-solid border-gray-300 rounded-lg shadow-md ">
     <article class="prose max-w-full">
       <h1 class=" text-2xl font-bold bg-primary text-white hover:bg-primary hover:text-black transition duration-300 ease-in-out">
         The Impact of Agile Development on Modern Software Engineering
@@ -80,6 +80,7 @@
           for implementing Agile in various projects.
         </p>
       </div>
+      
 
       <button
         (click)="toggleContent2()"
@@ -89,4 +90,68 @@
       </button>
     </article>
   </div>
+  <!-- Blog Post 3 -->
+  <div class="max-w-md w-full p-4 border border-solid border-gray-300 rounded-lg shadow-md ">
+    <article class="prose max-w-full">
+      <h1 class=" text-2xl font-bold bg-primary text-white hover:bg-primary hover:text-black transition duration-300 ease-in-out">
+        30 Javascript questions I find very useful in the Interviews.
+      </h1>
+      <br>
+
+      <div class="text-xl ">
+        <ol>
+          <li>Implement a function that converts a JavaScript value into a JSON string.</li>
+          <li>Implement a function that performs a deep copy of a value, but also handles circular references.</li>
+          <li>Implement a function to construct a table of contents from an HTML document.</li>
+          <li>Implement a function to filter rows of data matching a specified requirement.</li>
+          <li>Implement a function that performs insertion sort.</li>
+          <li>Implement a function that returns a memoized version of a function which accepts any number of arguments.</li>
+          <li>Implement a function that acts like setInterval but returns a function to cancel the Interval.</li>
+          <li>Implement a function that merges two objects together.</li>
+          <li>Implement a function to highlight text if searched terms appear within it.</li>
+          <li>Implement a function to recursively transform values.</li>
+          <li>Implement a function that determines if two values are deep equal.</li>
+          <li>Implement a function to highlight text if a searched term appears within it.</li>
+          <li>Implement a function that returns a new object after squashing the input object.</li>
+          <li>Implement a function that creates a resumable interval object.</li>
+          <li>Implement the functionality behavior of Promise.any().</li>
+          <li>Implement the functionality behavior of Promise.allSettled().</li>
+          <li>Implement a function that returns a memoized version of a function which accepts a single argument.</li>
+          <li>Implement a function that formats a list of items into a single readable string.</li>
+        </ol>
+
+        
+        <ol *ngIf="showFullContent3">
+              <li>Implement a function that converts a JavaScript value into a JSON string.</li>
+              <li>Implement a class that can subscribe to and emit events that trigger attached callback functions.</li>
+              <li>Implement a debounce function that comes with a cancel method to cancel delayed invocations.</li>
+              <li>Implement a function to merge rows of data from the same user.</li>
+              <li>Implement a function that recursively flattens an array into a single level deep.</li>
+              <li>Implement a function that returns an object with all falsey values removed.</li>
+              <li>Implement a function to resolve a given value to a Promise.</li>
+              <li>Implement a Turtle class that moves a turtle on a 2D plane.</li>
+              <li>Implement a function to execute N async tasks in series.</li>
+              <li>Implement a promisify function that allows the original function to override the return value.</li>
+              <li>Implement a function to deserialize a JSON string.</li>
+              <li>Implement a function to convert all the keys in an object to camel case.</li>
+        </ol>
+      </div>
+      
+
+      <button
+        (click)="toggleContent3()"
+        class="text-white font-semibold mt-4 cursor-pointer"
+      >
+        {{ showFullContent3 ? "See Less" : "See More" }}
+      </button>
+    </article>
+  </div>
+
 </div>
+
+
+
+
+
+
+

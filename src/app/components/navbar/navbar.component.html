@@ -1,6 +1,6 @@
-<div class=" font-semibold text-xl w-full p-2  bg-tertiary flex flex-col justify-center items-center gap-10 text-black md:flex-row"> 
+<div class=" md:h-24 font-semibold text-xl w-full p-2  bg-tertiary flex flex-col justify-center items-center text-black md:flex-row"> 
     
-    <div *ngFor="let route of routes" class = "hover:bg-primary hover:text-white  p-4 px-8 rounded-md hover:scale-110">
+    <div *ngFor="let route of routes" class = "hover:bg-primary p-2 md:px-8 hover:text-white rounded-md hover:scale-110">
         <a routerLink="{{route.path}}">{{route.name}}</a>
     </div>
 </div>

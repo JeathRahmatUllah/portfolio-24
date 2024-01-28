@@ -11,11 +11,16 @@ import { CommonModule } from '@angular/common'
 export class BlogsComponent {
   showFullContent: boolean = false;
   showFullContent2: boolean = false;
+  showFullContent3: boolean = false;
+
   toggleContent() {
     this.showFullContent = !this.showFullContent;
   }
   toggleContent2() {
     this.showFullContent2 = !this.showFullContent2;
+  }
+  toggleContent3() {
+    this.showFullContent3 = !this.showFullContent3;
   }
 
 

@@ -8,35 +8,44 @@
   />
 
   <div class="text-xl font-bold text-center md:text-left">
-    <p class="mb-8">
-       
-    </p>
+    <p class="mb-8"></p>
   </div>
 
   <blockquote class="text-2xl font-semibold italic text-center text-white">
-    I'm a software engineer with team leadership, machine learning, and system
-      design expertise. I'm deeply
-    <span class="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-pink-500 relative inline-block">
-      <span class="relative text-white">passionate</span>
+    🚀 Software Engineer | Python | Django | JavaScript | React | Angular
+    <br />
+    <br />
+
+    Experienced
+    <span
+      class="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-pink-500 relative inline-block"
+    >
+      <span class="relative text-white">software engineer</span>
     </span>
-    about my work, excel in
-      problem-solving with a strong SDLC knowledge, and stay up-to-date with
-      evolving tech trends.
+    with a proven track record in
+    <span
+      class="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-pink-500 relative inline-block"
+    >
+      <span class="relative text-white">full-stack development</span>
+    </span>
+    and a strong command of SDLC. Specializing in Python, Django, JavaScript,
+    React, and Angular, I deliver scalable solutions with a keen analytical
+    approach. Let's innovate together! 💻✨
   </blockquote>
-
-
 </div>
 
 <div class="grid grid-cols-1 p-10 gap-6 md:grid-cols-2"></div>
 
 <div class="flex justify-center items-center">
-  <p class="text-4xl font-bold border-b-4 p-2 inline hover:scale-110">Certificates</p>
+  <p class="text-4xl font-bold border-b-4 p-2 inline hover:scale-110">
+    Certificates
+  </p>
 </div>
 
-<div class="grid grid-cols-1 p-10 gap-6 md:grid-cols-2 ">
+<div class="grid grid-cols-1 p-10 gap-6 md:grid-cols-2">
   <div
     *ngFor="let CertificateItem of certificates | async"
-    class="flex items-center rounded-md p-10 border border-gray-300 "
+    class="flex items-center rounded-md p-10 border border-gray-300"
   >
     <img
       src="assets/icons/{{ CertificateItem.image }}"
@@ -44,14 +53,18 @@
       class="w-3/4 h-3/4 rounded-md border border-gray-300"
     />
 
-    <div class="inline-block px-4 py-3 border border-black-500 rounded-md bg-white text-black hover:bg-primary hover:text-white transition duration-300 ease-in-out m-3 hover:scale-110">
+    <div
+      class="inline-block px-4 py-3 border border-black-500 rounded-md bg-white text-black hover:bg-primary hover:text-white transition duration-300 ease-in-out m-3 hover:scale-110"
+    >
       {{ CertificateItem.context }}
     </div>
   </div>
 </div>
 
 <div class="flex justify-center items-center">
-  <p class="text-4xl font-bold border-b-4 p-2 inline hover:scale-110">Projects</p>
+  <p class="text-4xl font-bold border-b-4 p-2 inline hover:scale-110">
+    Projects
+  </p>
 </div>
 
 <div
@@ -65,15 +78,11 @@
       class="inline-block px-6 py-3 border border-black-500 rounded-md hover:scale-110 bg-primary text-white hover:bg-white hover:text-black transition duration-300 ease-in-out font-semibold"
     >
       {{ project.name }}
-      
     </div>
     <div class="my-10 p-4">
-
-      
-      <p class="font-semibold"> Description: {{ project.description }}</p>
+      <p class="font-semibold">Description: {{ project.description }}</p>
       <br />
       <br />
-      
 
       <p class="font-semibold">Tech Stack: {{ project.techStack }}</p>
     </div>

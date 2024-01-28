@@ -2,7 +2,6 @@ import { Injectable } from '@angular/core';
 import { initializeApp } from 'firebase/app';
 import { environment } from '../../environments';
 import { getFirestore, collection, getDocs } from 'firebase/firestore/lite';
-import { addDoc } from '@firebase/firestore';
 
 @Injectable({
   providedIn: 'root',
