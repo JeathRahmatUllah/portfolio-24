@@ -2,9 +2,6 @@
   {
     "name": "Andorra",
     "region": "Europe",
-    "timezones": {
-      "Europe/Andorra": "+02:00"
-    },
     "phone": ["+376"],
     "emoji": "🇦🇩",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg",
@@ -13,9 +10,7 @@
   {
     "name": "United Arab Emirates",
     "region": "Asia",
-    "timezones": {
-      "Asia/Dubai": "+04:00"
-    },
+
     "phone": ["+971"],
     "emoji": "🇦🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg",
@@ -24,9 +19,7 @@
   {
     "name": "Afghanistan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Kabul": "+04:30"
-    },
+
     "phone": ["+93"],
     "emoji": "🇦🇫",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg",
@@ -35,9 +28,7 @@
   {
     "name": "Antigua and Barbuda",
     "region": "Americas",
-    "timezones": {
-      "America/Antigua": "-04:00"
-    },
+
     "phone": ["+1-268"],
     "emoji": "🇦🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg",
@@ -46,9 +37,7 @@
   {
     "name": "Anguilla",
     "region": "Americas",
-    "timezones": {
-      "America/Anguilla": "-04:00"
-    },
+
     "phone": ["+1-264"],
     "emoji": "🇦🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AI.svg",
@@ -57,9 +46,7 @@
   {
     "name": "Albania",
     "region": "Europe",
-    "timezones": {
-      "Europe/Tirane": "+02:00"
-    },
+
     "phone": ["+355"],
     "emoji": "🇦🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg",
@@ -68,9 +55,7 @@
   {
     "name": "Armenia",
     "region": "Asia",
-    "timezones": {
-      "Asia/Yerevan": "+04:00"
-    },
+
     "phone": ["+374"],
     "emoji": "🇦🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg",
@@ -79,9 +64,7 @@
   {
     "name": "Angola",
     "region": "Africa",
-    "timezones": {
-      "Africa/Luanda": "+01:00"
-    },
+
     "phone": ["+244"],
     "emoji": "🇦🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AO.svg",
@@ -90,18 +73,7 @@
   {
     "name": "Antarctica",
     "region": "",
-    "timezones": {
-      "Antarctica/Casey": "+11:00",
-      "Antarctica/Davis": "+07:00",
-      "Antarctica/DumontDUrville": "+10:00",
-      "Antarctica/Mawson": "+05:00",
-      "Antarctica/McMurdo": "+12:00",
-      "Antarctica/Palmer": "-03:00",
-      "Antarctica/Rothera": "-03:00",
-      "Antarctica/Syowa": "+03:00",
-      "Antarctica/Troll": "+02:00",
-      "Antarctica/Vostok": "+06:00"
-    },
+
     "phone": ["+"],
     "emoji": "🇦🇶",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg",
@@ -110,20 +82,7 @@
   {
     "name": "Argentina",
     "region": "Americas",
-    "timezones": {
-      "America/Argentina/Buenos_Aires": "-03:00",
-      "America/Argentina/Catamarca": "-03:00",
-      "America/Argentina/Cordoba": "-03:00",
-      "America/Argentina/Jujuy": "-03:00",
-      "America/Argentina/La_Rioja": "-03:00",
-      "America/Argentina/Mendoza": "-03:00",
-      "America/Argentina/Rio_Gallegos": "-03:00",
-      "America/Argentina/Salta": "-03:00",
-      "America/Argentina/San_Juan": "-03:00",
-      "America/Argentina/San_Luis": "-03:00",
-      "America/Argentina/Tucuman": "-03:00",
-      "America/Argentina/Ushuaia": "-03:00"
-    },
+
     "phone": ["+54"],
     "emoji": "🇦🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg",
@@ -132,9 +91,7 @@
   {
     "name": "American Samoa",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Pago_Pago": "-11:00"
-    },
+
     "phone": ["+1-684"],
     "emoji": "🇦🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AS.svg",
@@ -143,9 +100,7 @@
   {
     "name": "Austria",
     "region": "Europe",
-    "timezones": {
-      "Europe/Vienna": "+02:00"
-    },
+
     "phone": ["+43"],
     "emoji": "🇦🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AT.svg",
@@ -154,20 +109,7 @@
   {
     "name": "Australia",
     "region": "Oceania",
-    "timezones": {
-      "Antarctica/Macquarie": "+10:00",
-      "Australia/Adelaide": "+09:30",
-      "Australia/Brisbane": "+10:00",
-      "Australia/Broken_Hill": "+09:30",
-      "Australia/Darwin": "+09:30",
-      "Australia/Eucla": "+08:45",
-      "Australia/Hobart": "+10:00",
-      "Australia/Lindeman": "+10:00",
-      "Australia/Lord_Howe": "+10:30",
-      "Australia/Melbourne": "+10:00",
-      "Australia/Perth": "+08:00",
-      "Australia/Sydney": "+10:00"
-    },
+
     "phone": ["+61"],
     "emoji": "🇦🇺",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg",
@@ -176,9 +118,7 @@
   {
     "name": "Aruba",
     "region": "Americas",
-    "timezones": {
-      "America/Aruba": "-04:00"
-    },
+
     "phone": ["+297"],
     "emoji": "🇦🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AW.svg",
@@ -187,9 +127,7 @@
   {
     "name": "Åland Islands",
     "region": "Europe",
-    "timezones": {
-      "Europe/Mariehamn": "+03:00"
-    },
+
     "phone": ["+358-18"],
     "emoji": "🇦🇽",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AX.svg"
@@ -197,9 +135,6 @@
   {
     "name": "Azerbaijan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Baku": "+04:00"
-    },
     "phone": ["+994"],
     "emoji": "🇦🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg",
@@ -208,9 +143,7 @@
   {
     "name": "Bosnia and Herzegovina",
     "region": "Europe",
-    "timezones": {
-      "Europe/Sarajevo": "+02:00"
-    },
+
     "phone": ["+387"],
     "emoji": "🇧🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg",
@@ -219,9 +152,7 @@
   {
     "name": "Barbados",
     "region": "Americas",
-    "timezones": {
-      "America/Barbados": "-04:00"
-    },
+
     "phone": ["+1-246"],
     "emoji": "🇧🇧",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg",
@@ -230,9 +161,6 @@
   {
     "name": "Bangladesh",
     "region": "Asia",
-    "timezones": {
-      "Asia/Dhaka": "+06:00"
-    },
     "phone": ["+880"],
     "emoji": "🇧🇩",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg",
@@ -241,9 +169,7 @@
   {
     "name": "Belgium",
     "region": "Europe",
-    "timezones": {
-      "Europe/Brussels": "+02:00"
-    },
+
     "phone": ["+32"],
     "emoji": "🇧🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg",
@@ -252,9 +178,7 @@
   {
     "name": "Burkina Faso",
     "region": "Africa",
-    "timezones": {
-      "Africa/Ouagadougou": "+00:00"
-    },
+
     "phone": ["+226"],
     "emoji": "🇧🇫",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg",
@@ -263,9 +187,7 @@
   {
     "name": "Bulgaria",
     "region": "Europe",
-    "timezones": {
-      "Europe/Sofia": "+03:00"
-    },
+
     "phone": ["+359"],
     "emoji": "🇧🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg",
@@ -274,9 +196,7 @@
   {
     "name": "Bahrain",
     "region": "Asia",
-    "timezones": {
-      "Asia/Bahrain": "+03:00"
-    },
+
     "phone": ["+973"],
     "emoji": "🇧🇭",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg",
@@ -285,9 +205,7 @@
   {
     "name": "Burundi",
     "region": "Africa",
-    "timezones": {
-      "Africa/Bujumbura": "+02:00"
-    },
+
     "phone": ["+257"],
     "emoji": "🇧🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg",
@@ -296,9 +214,7 @@
   {
     "name": "Benin",
     "region": "Africa",
-    "timezones": {
-      "Africa/Porto-Novo": "+01:00"
-    },
+
     "phone": ["+229"],
     "emoji": "🇧🇯",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BJ.svg",
@@ -307,9 +223,7 @@
   {
     "name": "Saint Barthélemy",
     "region": "Americas",
-    "timezones": {
-      "America/St_Barthelemy": "-04:00"
-    },
+
     "phone": ["+590"],
     "emoji": "🇧🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BL.svg",
@@ -318,9 +232,7 @@
   {
     "name": "Bermuda",
     "region": "Americas",
-    "timezones": {
-      "Atlantic/Bermuda": "-03:00"
-    },
+
     "phone": ["+1-441"],
     "emoji": "🇧🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BM.svg",
@@ -329,9 +241,7 @@
   {
     "name": "Brunei Darussalam",
     "region": "Asia",
-    "timezones": {
-      "Asia/Brunei": "+08:00"
-    },
+
     "phone": ["+673"],
     "emoji": "🇧🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg",
@@ -340,9 +250,7 @@
   {
     "name": "Bolivia, Plurinational State of",
     "region": "Americas",
-    "timezones": {
-      "America/La_Paz": "-04:00"
-    },
+
     "phone": ["+591"],
     "emoji": "🇧🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BO.svg",
@@ -351,24 +259,7 @@
   {
     "name": "Brazil",
     "region": "Americas",
-    "timezones": {
-      "America/Araguaina": "-03:00",
-      "America/Bahia": "-03:00",
-      "America/Belem": "-03:00",
-      "America/Boa_Vista": "-04:00",
-      "America/Campo_Grande": "-04:00",
-      "America/Cuiaba": "-04:00",
-      "America/Eirunepe": "-05:00",
-      "America/Fortaleza": "-03:00",
-      "America/Maceio": "-03:00",
-      "America/Manaus": "-04:00",
-      "America/Noronha": "-02:00",
-      "America/Porto_Velho": "-04:00",
-      "America/Recife": "-03:00",
-      "America/Rio_Branco": "-05:00",
-      "America/Santarem": "-03:00",
-      "America/Sao_Paulo": "-03:00"
-    },
+
     "phone": ["+55"],
     "emoji": "🇧🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg",
@@ -377,9 +268,7 @@
   {
     "name": "Bahamas",
     "region": "Americas",
-    "timezones": {
-      "America/Nassau": "-04:00"
-    },
+
     "phone": ["+1-242"],
     "emoji": "🇧🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg",
@@ -388,9 +277,7 @@
   {
     "name": "Bhutan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Thimphu": "+06:00"
-    },
+
     "phone": ["+975"],
     "emoji": "🇧🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BT.svg",
@@ -407,9 +294,7 @@
   {
     "name": "Botswana",
     "region": "Africa",
-    "timezones": {
-      "Africa/Gaborone": "+02:00"
-    },
+
     "phone": ["+267"],
     "emoji": "🇧🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BW.svg",
@@ -418,9 +303,7 @@
   {
     "name": "Belarus",
     "region": "Europe",
-    "timezones": {
-      "Europe/Minsk": "+03:00"
-    },
+
     "phone": ["+375"],
     "emoji": "🇧🇾",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg",
@@ -429,9 +312,7 @@
   {
     "name": "Belize",
     "region": "Americas",
-    "timezones": {
-      "America/Belize": "-06:00"
-    },
+
     "phone": ["+501"],
     "emoji": "🇧🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BZ.svg",
@@ -440,31 +321,7 @@
   {
     "name": "Canada",
     "region": "Americas",
-    "timezones": {
-      "America/Atikokan": "-05:00",
-      "America/Blanc-Sablon": "-04:00",
-      "America/Cambridge_Bay": "-06:00",
-      "America/Creston": "-07:00",
-      "America/Dawson": "-07:00",
-      "America/Dawson_Creek": "-07:00",
-      "America/Edmonton": "-06:00",
-      "America/Fort_Nelson": "-07:00",
-      "America/Glace_Bay": "-03:00",
-      "America/Goose_Bay": "-03:00",
-      "America/Halifax": "-03:00",
-      "America/Inuvik": "-06:00",
-      "America/Iqaluit": "-04:00",
-      "America/Moncton": "-03:00",
-      "America/Rankin_Inlet": "-05:00",
-      "America/Regina": "-06:00",
-      "America/Resolute": "-05:00",
-      "America/St_Johns": "-02:30",
-      "America/Swift_Current": "-06:00",
-      "America/Toronto": "-04:00",
-      "America/Vancouver": "-07:00",
-      "America/Whitehorse": "-07:00",
-      "America/Winnipeg": "-05:00"
-    },
+
     "phone": ["+1"],
     "emoji": "🇨🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg",
@@ -473,9 +330,7 @@
   {
     "name": "Cocos (Keeling) Islands",
     "region": "Oceania",
-    "timezones": {
-      "Indian/Cocos": "+06:30"
-    },
+
     "phone": ["+61"],
     "emoji": "🇨🇨",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CC.svg",
@@ -484,10 +339,7 @@
   {
     "name": "Congo, the Democratic Republic of the",
     "region": "Africa",
-    "timezones": {
-      "Africa/Kinshasa": "+01:00",
-      "Africa/Lubumbashi": "+02:00"
-    },
+
     "phone": ["+243"],
     "emoji": "🇨🇩",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg",
@@ -496,9 +348,7 @@
   {
     "name": "Central African Republic",
     "region": "Africa",
-    "timezones": {
-      "Africa/Bangui": "+01:00"
-    },
+
     "phone": ["+236"],
     "emoji": "🇨🇫",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg",
@@ -507,9 +357,7 @@
   {
     "name": "Congo",
     "region": "Africa",
-    "timezones": {
-      "Africa/Brazzaville": "+01:00"
-    },
+
     "phone": ["+242"],
     "emoji": "🇨🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CG.svg",
@@ -518,9 +366,7 @@
   {
     "name": "Switzerland",
     "region": "Europe",
-    "timezones": {
-      "Europe/Zurich": "+02:00"
-    },
+
     "phone": ["+41"],
     "emoji": "🇨🇭",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg",
@@ -529,9 +375,7 @@
   {
     "name": "Côte d'Ivoire",
     "region": "Africa",
-    "timezones": {
-      "Africa/Abidjan": "+00:00"
-    },
+
     "phone": ["+225"],
     "emoji": "🇨🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CI.svg",
@@ -540,9 +384,7 @@
   {
     "name": "Cook Islands",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Rarotonga": "-10:00"
-    },
+
     "phone": ["+682"],
     "emoji": "🇨🇰",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CK.svg",
@@ -551,11 +393,7 @@
   {
     "name": "Chile",
     "region": "Americas",
-    "timezones": {
-      "America/Punta_Arenas": "-03:00",
-      "America/Santiago": "-04:00",
-      "Pacific/Easter": "-06:00"
-    },
+
     "phone": ["+56"],
     "emoji": "🇨🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg",
@@ -564,9 +402,7 @@
   {
     "name": "Cameroon",
     "region": "Africa",
-    "timezones": {
-      "Africa/Douala": "+01:00"
-    },
+
     "phone": ["+237"],
     "emoji": "🇨🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg",
@@ -575,10 +411,7 @@
   {
     "name": "China",
     "region": "Asia",
-    "timezones": {
-      "Asia/Shanghai": "+08:00",
-      "Asia/Urumqi": "+06:00"
-    },
+
     "phone": ["+86"],
     "emoji": "🇨🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg",
@@ -587,9 +420,7 @@
   {
     "name": "Colombia",
     "region": "Americas",
-    "timezones": {
-      "America/Bogota": "-05:00"
-    },
+
     "phone": ["+57"],
     "emoji": "🇨🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg",
@@ -598,9 +429,7 @@
   {
     "name": "Costa Rica",
     "region": "Americas",
-    "timezones": {
-      "America/Costa_Rica": "-06:00"
-    },
+
     "phone": ["+506"],
     "emoji": "🇨🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CR.svg",
@@ -609,9 +438,7 @@
   {
     "name": "Cuba",
     "region": "Americas",
-    "timezones": {
-      "America/Havana": "-04:00"
-    },
+
     "phone": ["+53"],
     "emoji": "🇨🇺",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CU.svg",
@@ -620,9 +447,7 @@
   {
     "name": "Cape Verde",
     "region": "Africa",
-    "timezones": {
-      "Atlantic/Cape_Verde": "-01:00"
-    },
+
     "phone": ["+238"],
     "emoji": "🇨🇻",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CV.svg",
@@ -631,9 +456,7 @@
   {
     "name": "Curaçao",
     "region": "Americas",
-    "timezones": {
-      "America/Curacao": "-04:00"
-    },
+
     "phone": ["+599"],
     "emoji": "🇨🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CW.svg",
@@ -642,9 +465,7 @@
   {
     "name": "Christmas Island",
     "region": "Oceania",
-    "timezones": {
-      "Indian/Christmas": "+07:00"
-    },
+
     "phone": ["+61"],
     "emoji": "🇨🇽",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CX.svg",
@@ -653,10 +474,7 @@
   {
     "name": "Cyprus",
     "region": "Asia",
-    "timezones": {
-      "Asia/Famagusta": "+03:00",
-      "Asia/Nicosia": "+03:00"
-    },
+
     "phone": ["+357"],
     "emoji": "🇨🇾",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CY.svg",
@@ -665,9 +483,7 @@
   {
     "name": "Czech Republic",
     "region": "Europe",
-    "timezones": {
-      "Europe/Prague": "+02:00"
-    },
+
     "phone": ["+420"],
     "emoji": "🇨🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg",
@@ -676,10 +492,7 @@
   {
     "name": "Germany",
     "region": "Europe",
-    "timezones": {
-      "Europe/Berlin": "+02:00",
-      "Europe/Busingen": "+02:00"
-    },
+
     "phone": ["+49"],
     "emoji": "🇩🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg",
@@ -688,9 +501,7 @@
   {
     "name": "Djibouti",
     "region": "Africa",
-    "timezones": {
-      "Africa/Djibouti": "+03:00"
-    },
+
     "phone": ["+253"],
     "emoji": "🇩🇯",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DJ.svg",
@@ -699,9 +510,7 @@
   {
     "name": "Denmark",
     "region": "Europe",
-    "timezones": {
-      "Europe/Copenhagen": "+02:00"
-    },
+
     "phone": ["+45"],
     "emoji": "🇩🇰",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg",
@@ -710,9 +519,7 @@
   {
     "name": "Dominica",
     "region": "Americas",
-    "timezones": {
-      "America/Dominica": "-04:00"
-    },
+
     "phone": ["+1-767"],
     "emoji": "🇩🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg",
@@ -721,9 +528,7 @@
   {
     "name": "Dominican Republic",
     "region": "Americas",
-    "timezones": {
-      "America/Santo_Domingo": "-04:00"
-    },
+
     "phone": ["+1-809", "+1-829"],
     "emoji": "🇩🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg",
@@ -732,9 +537,7 @@
   {
     "name": "Algeria",
     "region": "Africa",
-    "timezones": {
-      "Africa/Algiers": "+01:00"
-    },
+
     "phone": ["+213"],
     "emoji": "🇩🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DZ.svg",
@@ -743,10 +546,7 @@
   {
     "name": "Ecuador",
     "region": "Americas",
-    "timezones": {
-      "America/Guayaquil": "-05:00",
-      "Pacific/Galapagos": "-06:00"
-    },
+
     "phone": ["+593"],
     "emoji": "🇪🇨",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg",
@@ -755,9 +555,7 @@
   {
     "name": "Estonia",
     "region": "Europe",
-    "timezones": {
-      "Europe/Tallinn": "+03:00"
-    },
+
     "phone": ["+372"],
     "emoji": "🇪🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg",
@@ -766,9 +564,7 @@
   {
     "name": "Egypt",
     "region": "Africa",
-    "timezones": {
-      "Africa/Cairo": "+02:00"
-    },
+
     "phone": ["+20"],
     "emoji": "🇪🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg",
@@ -785,9 +581,7 @@
   {
     "name": "Eritrea",
     "region": "Africa",
-    "timezones": {
-      "Africa/Asmara": "+03:00"
-    },
+
     "phone": ["+291"],
     "emoji": "🇪🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ER.svg",
@@ -796,11 +590,7 @@
   {
     "name": "Spain",
     "region": "Europe",
-    "timezones": {
-      "Africa/Ceuta": "+02:00",
-      "Atlantic/Canary": "+01:00",
-      "Europe/Madrid": "+02:00"
-    },
+
     "phone": ["+34"],
     "emoji": "🇪🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
@@ -809,9 +599,6 @@
   {
     "name": "Ethiopia",
     "region": "Africa",
-    "timezones": {
-      "Africa/Addis_Ababa": "+03:00"
-    },
     "phone": ["+251"],
     "emoji": "🇪🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg",
@@ -820,9 +607,7 @@
   {
     "name": "Finland",
     "region": "Europe",
-    "timezones": {
-      "Europe/Helsinki": "+03:00"
-    },
+
     "phone": ["+358"],
     "emoji": "🇫🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg"
@@ -830,9 +615,7 @@
   {
     "name": "Fiji",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Fiji": "+12:00"
-    },
+
     "phone": ["+679"],
     "emoji": "🇫🇯",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FJ.svg",
@@ -841,9 +624,6 @@
   {
     "name": "Falkland Islands (Malvinas)",
     "region": "Americas",
-    "timezones": {
-      "Atlantic/Stanley": "-03:00"
-    },
     "phone": ["+500"],
     "emoji": "🇫🇰",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FK.svg",
@@ -852,11 +632,7 @@
   {
     "name": "Micronesia, Federated States of",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Chuuk": "+10:00",
-      "Pacific/Kosrae": "+11:00",
-      "Pacific/Pohnpei": "+11:00"
-    },
+
     "phone": ["+691"],
     "emoji": "🇫🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FM.svg",
@@ -865,9 +641,7 @@
   {
     "name": "Faroe Islands",
     "region": "Europe",
-    "timezones": {
-      "Atlantic/Faroe": "+01:00"
-    },
+
     "phone": ["+298"],
     "emoji": "🇫🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FO.svg",
@@ -876,9 +650,7 @@
   {
     "name": "France",
     "region": "Europe",
-    "timezones": {
-      "Europe/Paris": "+02:00"
-    },
+
     "phone": ["+33"],
     "emoji": "🇫🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg",
@@ -887,9 +659,7 @@
   {
     "name": "Gabon",
     "region": "Africa",
-    "timezones": {
-      "Africa/Libreville": "+01:00"
-    },
+
     "phone": ["+241"],
     "emoji": "🇬🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GA.svg",
@@ -898,9 +668,6 @@
   {
     "name": "United Kingdom",
     "region": "Europe",
-    "timezones": {
-      "Europe/London": "+01:00"
-    },
     "phone": ["+44"],
     "emoji": "🇬🇧",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg",
@@ -909,9 +676,6 @@
   {
     "name": "Grenada",
     "region": "Americas",
-    "timezones": {
-      "America/Grenada": "-04:00"
-    },
     "phone": ["+1-473"],
     "emoji": "🇬🇩",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg",
@@ -920,9 +684,6 @@
   {
     "name": "Georgia",
     "region": "Asia",
-    "timezones": {
-      "Asia/Tbilisi": "+04:00"
-    },
     "phone": ["+995"],
     "emoji": "🇬🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GE.svg",
@@ -931,9 +692,6 @@
   {
     "name": "French Guiana",
     "region": "Americas",
-    "timezones": {
-      "America/Cayenne": "-03:00"
-    },
     "phone": ["+594"],
     "emoji": "🇬🇫",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GF.svg",
@@ -942,9 +700,6 @@
   {
     "name": "Guernsey",
     "region": "Europe",
-    "timezones": {
-      "Europe/Guernsey": "+01:00"
-    },
     "phone": ["+44-1481"],
     "emoji": "🇬🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GG.svg",
@@ -953,9 +708,6 @@
   {
     "name": "Ghana",
     "region": "Africa",
-    "timezones": {
-      "Africa/Accra": "+00:00"
-    },
     "phone": ["+233"],
     "emoji": "🇬🇭",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg",
@@ -964,9 +716,6 @@
   {
     "name": "Gibraltar",
     "region": "Europe",
-    "timezones": {
-      "Europe/Gibraltar": "+02:00"
-    },
     "phone": ["+350"],
     "emoji": "🇬🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GI.svg",
@@ -975,12 +724,6 @@
   {
     "name": "Greenland",
     "region": "Americas",
-    "timezones": {
-      "America/Danmarkshavn": "+00:00",
-      "America/Nuuk": "-02:00",
-      "America/Scoresbysund": "+00:00",
-      "America/Thule": "-03:00"
-    },
     "phone": ["+299"],
     "emoji": "🇬🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GL.svg",
@@ -989,9 +732,6 @@
   {
     "name": "Gambia",
     "region": "Africa",
-    "timezones": {
-      "Africa/Banjul": "+00:00"
-    },
     "phone": ["+220"],
     "emoji": "🇬🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg",
@@ -1000,9 +740,6 @@
   {
     "name": "Guinea",
     "region": "Africa",
-    "timezones": {
-      "Africa/Conakry": "+00:00"
-    },
     "phone": ["+224"],
     "emoji": "🇬🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GN.svg",
@@ -1011,9 +748,6 @@
   {
     "name": "Guadeloupe",
     "region": "Americas",
-    "timezones": {
-      "America/Guadeloupe": "-04:00"
-    },
     "phone": ["+590"],
     "emoji": "🇬🇵",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GP.svg",
@@ -1022,9 +756,6 @@
   {
     "name": "Equatorial Guinea",
     "region": "Africa",
-    "timezones": {
-      "Africa/Malabo": "+01:00"
-    },
     "phone": ["+240"],
     "emoji": "🇬🇶",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GQ.svg",
@@ -1033,9 +764,6 @@
   {
     "name": "Greece",
     "region": "Europe",
-    "timezones": {
-      "Europe/Athens": "+03:00"
-    },
     "phone": ["+30"],
     "emoji": "🇬🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg",
@@ -1044,9 +772,6 @@
   {
     "name": "South Georgia and the South Sandwich Islands",
     "region": "Americas",
-    "timezones": {
-      "Atlantic/South_Georgia": "-02:00"
-    },
     "phone": ["+"],
     "emoji": "🇬🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GS.svg",
@@ -1055,9 +780,6 @@
   {
     "name": "Guatemala",
     "region": "Americas",
-    "timezones": {
-      "America/Guatemala": "-06:00"
-    },
     "phone": ["+502"],
     "emoji": "🇬🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GT.svg",
@@ -1066,9 +788,6 @@
   {
     "name": "Guam",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Guam": "+10:00"
-    },
     "phone": ["+1-671"],
     "emoji": "🇬🇺",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GU.svg",
@@ -1077,9 +796,6 @@
   {
     "name": "Guinea-Bissau",
     "region": "Africa",
-    "timezones": {
-      "Africa/Bissau": "+00:00"
-    },
     "phone": ["+245"],
     "emoji": "🇬🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GW.svg",
@@ -1088,9 +804,6 @@
   {
     "name": "Guyana",
     "region": "Americas",
-    "timezones": {
-      "America/Guyana": "-04:00"
-    },
     "phone": ["+592"],
     "emoji": "🇬🇾",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GY.svg",
@@ -1099,9 +812,6 @@
   {
     "name": "Hong Kong",
     "region": "Asia",
-    "timezones": {
-      "Asia/Hong_Kong": "+08:00"
-    },
     "phone": ["+852"],
     "emoji": "🇭🇰",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HK.svg",
@@ -1114,9 +824,6 @@
   {
     "name": "Honduras",
     "region": "Americas",
-    "timezones": {
-      "America/Tegucigalpa": "-06:00"
-    },
     "phone": ["+504"],
     "emoji": "🇭🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HN.svg",
@@ -1125,9 +832,6 @@
   {
     "name": "Croatia",
     "region": "Europe",
-    "timezones": {
-      "Europe/Zagreb": "+02:00"
-    },
     "phone": ["+385"],
     "emoji": "🇭🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg",
@@ -1136,9 +840,6 @@
   {
     "name": "Haiti",
     "region": "Americas",
-    "timezones": {
-      "America/Port-au-Prince": "-04:00"
-    },
     "phone": ["+509"],
     "emoji": "🇭🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HT.svg",
@@ -1147,9 +848,6 @@
   {
     "name": "Hungary",
     "region": "Europe",
-    "timezones": {
-      "Europe/Budapest": "+02:00"
-    },
     "phone": ["+36"],
     "emoji": "🇭🇺",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg",
@@ -1158,12 +856,6 @@
   {
     "name": "Indonesia",
     "region": "Asia",
-    "timezones": {
-      "Asia/Jakarta": "+07:00",
-      "Asia/Jayapura": "+09:00",
-      "Asia/Makassar": "+08:00",
-      "Asia/Pontianak": "+07:00"
-    },
     "phone": ["+62"],
     "emoji": "🇮🇩",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg",
@@ -1172,9 +864,6 @@
   {
     "name": "Ireland",
     "region": "Europe",
-    "timezones": {
-      "Europe/Dublin": "+01:00"
-    },
     "phone": ["+353"],
     "emoji": "🇮🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg",
@@ -1183,9 +872,6 @@
   {
     "name": "Israel",
     "region": "Asia",
-    "timezones": {
-      "Asia/Jerusalem": "+03:00"
-    },
     "phone": ["+972"],
     "emoji": "🇮🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg",
@@ -1194,9 +880,6 @@
   {
     "name": "Isle of Man",
     "region": "Europe",
-    "timezones": {
-      "Europe/Isle_of_Man": "+01:00"
-    },
     "phone": ["+44-1624"],
     "emoji": "🇮🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IM.svg",
@@ -1205,9 +888,6 @@
   {
     "name": "India",
     "region": "Asia",
-    "timezones": {
-      "Asia/Kolkata": "+05:30"
-    },
     "phone": ["+91"],
     "emoji": "🇮🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg",
@@ -1216,9 +896,6 @@
   {
     "name": "British Indian Ocean Territory",
     "region": "Africa",
-    "timezones": {
-      "Indian/Chagos": "+06:00"
-    },
     "phone": ["+246"],
     "emoji": "🇮🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IO.svg",
@@ -1227,9 +904,6 @@
   {
     "name": "Iraq",
     "region": "Asia",
-    "timezones": {
-      "Asia/Baghdad": "+03:00"
-    },
     "phone": ["+964"],
     "emoji": "🇮🇶",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IQ.svg",
@@ -1238,9 +912,6 @@
   {
     "name": "Iran, Islamic Republic of",
     "region": "Asia",
-    "timezones": {
-      "Asia/Tehran": "+03:30"
-    },
     "phone": ["+98"],
     "emoji": "🇮🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg",
@@ -1249,9 +920,6 @@
   {
     "name": "Iceland",
     "region": "Europe",
-    "timezones": {
-      "Atlantic/Reykjavik": "+00:00"
-    },
     "phone": ["+354"],
     "emoji": "🇮🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg",
@@ -1260,9 +928,6 @@
   {
     "name": "Italy",
     "region": "Europe",
-    "timezones": {
-      "Europe/Rome": "+02:00"
-    },
     "phone": ["+39"],
     "emoji": "🇮🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg",
@@ -1271,9 +936,6 @@
   {
     "name": "Jersey",
     "region": "Europe",
-    "timezones": {
-      "Europe/Jersey": "+01:00"
-    },
     "phone": ["+44-1534"],
     "emoji": "🇯🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JE.svg",
@@ -1282,9 +944,6 @@
   {
     "name": "Jamaica",
     "region": "Americas",
-    "timezones": {
-      "America/Jamaica": "-05:00"
-    },
     "phone": ["+1-876"],
     "emoji": "🇯🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg",
@@ -1293,9 +952,6 @@
   {
     "name": "Jordan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Amman": "+03:00"
-    },
     "phone": ["+962"],
     "emoji": "🇯🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JO.svg",
@@ -1304,9 +960,6 @@
   {
     "name": "Japan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Tokyo": "+09:00"
-    },
     "phone": ["+81"],
     "emoji": "🇯🇵",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg"
@@ -1314,9 +967,6 @@
   {
     "name": "Kenya",
     "region": "Africa",
-    "timezones": {
-      "Africa/Nairobi": "+03:00"
-    },
     "phone": ["+254"],
     "emoji": "🇰🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg",
@@ -1325,9 +975,6 @@
   {
     "name": "Kyrgyzstan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Bishkek": "+06:00"
-    },
     "phone": ["+996"],
     "emoji": "🇰🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg",
@@ -1336,9 +983,6 @@
   {
     "name": "Cambodia",
     "region": "Asia",
-    "timezones": {
-      "Asia/Phnom_Penh": "+07:00"
-    },
     "phone": ["+855"],
     "emoji": "🇰🇭",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg",
@@ -1347,11 +991,6 @@
   {
     "name": "Kiribati",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Kanton": "+13:00",
-      "Pacific/Kiritimati": "+14:00",
-      "Pacific/Tarawa": "+12:00"
-    },
     "phone": ["+686"],
     "emoji": "🇰🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KI.svg",
@@ -1360,9 +999,6 @@
   {
     "name": "Comoros",
     "region": "Africa",
-    "timezones": {
-      "Indian/Comoro": "+03:00"
-    },
     "phone": ["+269"],
     "emoji": "🇰🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg",
@@ -1371,9 +1007,6 @@
   {
     "name": "Saint Kitts and Nevis",
     "region": "Americas",
-    "timezones": {
-      "America/St_Kitts": "-04:00"
-    },
     "phone": ["+1-869"],
     "emoji": "🇰🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KN.svg",
@@ -1382,9 +1015,6 @@
   {
     "name": "Korea, Democratic People's Republic of",
     "region": "Asia",
-    "timezones": {
-      "Asia/Pyongyang": "+09:00"
-    },
     "phone": ["+850"],
     "emoji": "🇰🇵",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg",
@@ -1393,9 +1023,6 @@
   {
     "name": "Korea, Republic of",
     "region": "Asia",
-    "timezones": {
-      "Asia/Seoul": "+09:00"
-    },
     "phone": ["+82"],
     "emoji": "🇰🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg",
@@ -1404,9 +1031,6 @@
   {
     "name": "Kuwait",
     "region": "Asia",
-    "timezones": {
-      "Asia/Kuwait": "+03:00"
-    },
     "phone": ["+965"],
     "emoji": "🇰🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KW.svg",
@@ -1415,9 +1039,6 @@
   {
     "name": "Cayman Islands",
     "region": "Americas",
-    "timezones": {
-      "America/Cayman": "-05:00"
-    },
     "phone": ["+1-345"],
     "emoji": "🇰🇾",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KY.svg",
@@ -1426,15 +1047,6 @@
   {
     "name": "Kazakhstan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Almaty": "+06:00",
-      "Asia/Aqtau": "+05:00",
-      "Asia/Aqtobe": "+05:00",
-      "Asia/Atyrau": "+05:00",
-      "Asia/Oral": "+05:00",
-      "Asia/Qostanay": "+06:00",
-      "Asia/Qyzylorda": "+05:00"
-    },
     "phone": ["+7"],
     "emoji": "🇰🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg",
@@ -1443,9 +1055,6 @@
   {
     "name": "Lao People's Democratic Republic",
     "region": "Asia",
-    "timezones": {
-      "Asia/Vientiane": "+07:00"
-    },
     "phone": ["+856"],
     "emoji": "🇱🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg",
@@ -1454,9 +1063,6 @@
   {
     "name": "Lebanon",
     "region": "Asia",
-    "timezones": {
-      "Asia/Beirut": "+03:00"
-    },
     "phone": ["+961"],
     "emoji": "🇱🇧",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg",
@@ -1465,9 +1071,6 @@
   {
     "name": "Saint Lucia",
     "region": "Americas",
-    "timezones": {
-      "America/St_Lucia": "-04:00"
-    },
     "phone": ["+1-758"],
     "emoji": "🇱🇨",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LC.svg",
@@ -1476,9 +1079,6 @@
   {
     "name": "Liechtenstein",
     "region": "Europe",
-    "timezones": {
-      "Europe/Vaduz": "+02:00"
-    },
     "phone": ["+423"],
     "emoji": "🇱🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LI.svg",
@@ -1487,9 +1087,6 @@
   {
     "name": "Sri Lanka",
     "region": "Asia",
-    "timezones": {
-      "Asia/Colombo": "+05:30"
-    },
     "phone": ["+94"],
     "emoji": "🇱🇰",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg",
@@ -1498,9 +1095,6 @@
   {
     "name": "Liberia",
     "region": "Africa",
-    "timezones": {
-      "Africa/Monrovia": "+00:00"
-    },
     "phone": ["+231"],
     "emoji": "🇱🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LR.svg",
@@ -1509,9 +1103,6 @@
   {
     "name": "Lesotho",
     "region": "Africa",
-    "timezones": {
-      "Africa/Maseru": "+02:00"
-    },
     "phone": ["+266"],
     "emoji": "🇱🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LS.svg",
@@ -1520,9 +1111,6 @@
   {
     "name": "Lithuania",
     "region": "Europe",
-    "timezones": {
-      "Europe/Vilnius": "+03:00"
-    },
     "phone": ["+370"],
     "emoji": "🇱🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg",
@@ -1531,9 +1119,6 @@
   {
     "name": "Luxembourg",
     "region": "Europe",
-    "timezones": {
-      "Europe/Luxembourg": "+02:00"
-    },
     "phone": ["+352"],
     "emoji": "🇱🇺",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LU.svg",
@@ -1542,9 +1127,6 @@
   {
     "name": "Latvia",
     "region": "Europe",
-    "timezones": {
-      "Europe/Riga": "+03:00"
-    },
     "phone": ["+371"],
     "emoji": "🇱🇻",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg",
@@ -1553,9 +1135,6 @@
   {
     "name": "Libya",
     "region": "Africa",
-    "timezones": {
-      "Africa/Tripoli": "+02:00"
-    },
     "phone": ["+218"],
     "emoji": "🇱🇾",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LY.svg",
@@ -1564,10 +1143,6 @@
   {
     "name": "Morocco",
     "region": "Africa",
-    "timezones": {
-      "Africa/Casablanca": "+00:00",
-      "Africa/El_Aaiun": "+00:00"
-    },
     "phone": ["+212"],
     "emoji": "🇲🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg",
@@ -1576,9 +1151,6 @@
   {
     "name": "Monaco",
     "region": "Europe",
-    "timezones": {
-      "Europe/Monaco": "+02:00"
-    },
     "phone": ["+377"],
     "emoji": "🇲🇨",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MC.svg",
@@ -1587,9 +1159,6 @@
   {
     "name": "Moldova, Republic of",
     "region": "Europe",
-    "timezones": {
-      "Europe/Chisinau": "+03:00"
-    },
     "phone": ["+373"],
     "emoji": "🇲🇩",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MD.svg",
@@ -1598,9 +1167,6 @@
   {
     "name": "Montenegro",
     "region": "Europe",
-    "timezones": {
-      "Europe/Podgorica": "+02:00"
-    },
     "phone": ["+382"],
     "emoji": "🇲🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ME.svg",
@@ -1609,9 +1175,6 @@
   {
     "name": "Saint Martin (French part)",
     "region": "Americas",
-    "timezones": {
-      "America/Marigot": "-04:00"
-    },
     "phone": ["+590"],
     "emoji": "🇲🇫",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MF.svg",
@@ -1620,9 +1183,6 @@
   {
     "name": "Madagascar",
     "region": "Africa",
-    "timezones": {
-      "Indian/Antananarivo": "+03:00"
-    },
     "phone": ["+261"],
     "emoji": "🇲🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MG.svg",
@@ -1631,10 +1191,6 @@
   {
     "name": "Marshall Islands",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Kwajalein": "+12:00",
-      "Pacific/Majuro": "+12:00"
-    },
     "phone": ["+692"],
     "emoji": "🇲🇭",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MH.svg",
@@ -1643,9 +1199,6 @@
   {
     "name": "Macedonia, the Former Yugoslav Republic of",
     "region": "Europe",
-    "timezones": {
-      "Europe/Skopje": "+02:00"
-    },
     "phone": ["+389"],
     "emoji": "🇲🇰",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg",
@@ -1654,9 +1207,6 @@
   {
     "name": "Mali",
     "region": "Africa",
-    "timezones": {
-      "Africa/Bamako": "+00:00"
-    },
     "phone": ["+223"],
     "emoji": "🇲🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg",
@@ -1665,9 +1215,6 @@
   {
     "name": "Myanmar",
     "region": "Asia",
-    "timezones": {
-      "Asia/Yangon": "+06:30"
-    },
     "phone": ["+95"],
     "emoji": "🇲🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg"
@@ -1675,11 +1222,6 @@
   {
     "name": "Mongolia",
     "region": "Asia",
-    "timezones": {
-      "Asia/Choibalsan": "+08:00",
-      "Asia/Hovd": "+07:00",
-      "Asia/Ulaanbaatar": "+08:00"
-    },
     "phone": ["+976"],
     "emoji": "🇲🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg",
@@ -1688,9 +1230,6 @@
   {
     "name": "Macao",
     "region": "Asia",
-    "timezones": {
-      "Asia/Macau": "+08:00"
-    },
     "phone": ["+853"],
     "emoji": "🇲🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MO.svg",
@@ -1699,9 +1238,6 @@
   {
     "name": "Northern Mariana Islands",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Saipan": "+10:00"
-    },
     "phone": ["+1-670"],
     "emoji": "🇲🇵",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MP.svg",
@@ -1710,9 +1246,6 @@
   {
     "name": "Martinique",
     "region": "Americas",
-    "timezones": {
-      "America/Martinique": "-04:00"
-    },
     "phone": ["+596"],
     "emoji": "🇲🇶",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MQ.svg",
@@ -1721,9 +1254,6 @@
   {
     "name": "Mauritania",
     "region": "Africa",
-    "timezones": {
-      "Africa/Nouakchott": "+00:00"
-    },
     "phone": ["+222"],
     "emoji": "🇲🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg",
@@ -1732,9 +1262,7 @@
   {
     "name": "Montserrat",
     "region": "Americas",
-    "timezones": {
-      "America/Montserrat": "-04:00"
-    },
+
     "phone": ["+1-664"],
     "emoji": "🇲🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MS.svg",
@@ -1743,9 +1271,7 @@
   {
     "name": "Malta",
     "region": "Europe",
-    "timezones": {
-      "Europe/Malta": "+02:00"
-    },
+
     "phone": ["+356"],
     "emoji": "🇲🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg",
@@ -1754,9 +1280,6 @@
   {
     "name": "Mauritius",
     "region": "Africa",
-    "timezones": {
-      "Indian/Mauritius": "+04:00"
-    },
     "phone": ["+230"],
     "emoji": "🇲🇺",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MU.svg",
@@ -1765,9 +1288,7 @@
   {
     "name": "Maldives",
     "region": "Asia",
-    "timezones": {
-      "Indian/Maldives": "+05:00"
-    },
+
     "phone": ["+960"],
     "emoji": "🇲🇻",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg",
@@ -1776,9 +1297,7 @@
   {
     "name": "Malawi",
     "region": "Africa",
-    "timezones": {
-      "Africa/Blantyre": "+02:00"
-    },
+
     "phone": ["+265"],
     "emoji": "🇲🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MW.svg",
@@ -1787,20 +1306,7 @@
   {
     "name": "Mexico",
     "region": "Americas",
-    "timezones": {
-      "America/Bahia_Banderas": "-06:00",
-      "America/Cancun": "-05:00",
-      "America/Chihuahua": "-06:00",
-      "America/Ciudad_Juarez": "-06:00",
-      "America/Hermosillo": "-07:00",
-      "America/Matamoros": "-05:00",
-      "America/Mazatlan": "-07:00",
-      "America/Merida": "-06:00",
-      "America/Mexico_City": "-06:00",
-      "America/Monterrey": "-06:00",
-      "America/Ojinaga": "-05:00",
-      "America/Tijuana": "-07:00"
-    },
+
     "phone": ["+52"],
     "emoji": "🇲🇽",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg",
@@ -1809,10 +1315,7 @@
   {
     "name": "Malaysia",
     "region": "Asia",
-    "timezones": {
-      "Asia/Kuala_Lumpur": "+08:00",
-      "Asia/Kuching": "+08:00"
-    },
+
     "phone": ["+60"],
     "emoji": "🇲🇾",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MY.svg",
@@ -1821,9 +1324,7 @@
   {
     "name": "Mozambique",
     "region": "Africa",
-    "timezones": {
-      "Africa/Maputo": "+02:00"
-    },
+
     "phone": ["+258"],
     "emoji": "🇲🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MZ.svg",
@@ -1832,9 +1333,7 @@
   {
     "name": "Namibia",
     "region": "Africa",
-    "timezones": {
-      "Africa/Windhoek": "+02:00"
-    },
+
     "phone": ["+264"],
     "emoji": "🇳🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NA.svg",
@@ -1843,9 +1342,7 @@
   {
     "name": "New Caledonia",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Noumea": "+11:00"
-    },
+
     "phone": ["+687"],
     "emoji": "🇳🇨",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NC.svg",
@@ -1854,9 +1351,7 @@
   {
     "name": "Niger",
     "region": "Africa",
-    "timezones": {
-      "Africa/Niamey": "+01:00"
-    },
+
     "phone": ["+227"],
     "emoji": "🇳🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NE.svg",
@@ -1865,9 +1360,7 @@
   {
     "name": "Norfolk Island",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Norfolk": "+11:00"
-    },
+
     "phone": ["+672"],
     "emoji": "🇳🇫",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NF.svg",
@@ -1876,9 +1369,7 @@
   {
     "name": "Nigeria",
     "region": "Africa",
-    "timezones": {
-      "Africa/Lagos": "+01:00"
-    },
+
     "phone": ["+234"],
     "emoji": "🇳🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg",
@@ -1887,9 +1378,7 @@
   {
     "name": "Nicaragua",
     "region": "Americas",
-    "timezones": {
-      "America/Managua": "-06:00"
-    },
+
     "phone": ["+505"],
     "emoji": "🇳🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NI.svg",
@@ -1898,9 +1387,6 @@
   {
     "name": "Netherlands",
     "region": "Europe",
-    "timezones": {
-      "Europe/Amsterdam": "+02:00"
-    },
     "phone": ["+31"],
     "emoji": "🇳🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg",
@@ -1909,9 +1395,7 @@
   {
     "name": "Norway",
     "region": "Europe",
-    "timezones": {
-      "Europe/Oslo": "+02:00"
-    },
+
     "phone": ["+47"],
     "emoji": "🇳🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NO.svg",
@@ -1920,9 +1404,7 @@
   {
     "name": "Nepal",
     "region": "Asia",
-    "timezones": {
-      "Asia/Kathmandu": "+05:45"
-    },
+
     "phone": ["+977"],
     "emoji": "🇳🇵",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg",
@@ -1931,9 +1413,7 @@
   {
     "name": "Nauru",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Nauru": "+12:00"
-    },
+
     "phone": ["+674"],
     "emoji": "🇳🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NR.svg",
@@ -1942,9 +1422,7 @@
   {
     "name": "Niue",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Niue": "-11:00"
-    },
+
     "phone": ["+683"],
     "emoji": "🇳🇺",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NU.svg",
@@ -1953,10 +1431,7 @@
   {
     "name": "New Zealand",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Auckland": "+12:00",
-      "Pacific/Chatham": "+12:45"
-    },
+
     "phone": ["+64"],
     "emoji": "🇳🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NZ.svg",
@@ -1965,9 +1440,7 @@
   {
     "name": "Oman",
     "region": "Asia",
-    "timezones": {
-      "Asia/Muscat": "+04:00"
-    },
+
     "phone": ["+968"],
     "emoji": "🇴🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/OM.svg",
@@ -1976,9 +1449,7 @@
   {
     "name": "Panama",
     "region": "Americas",
-    "timezones": {
-      "America/Panama": "-05:00"
-    },
+
     "phone": ["+507"],
     "emoji": "🇵🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PA.svg",
@@ -1987,9 +1458,7 @@
   {
     "name": "Peru",
     "region": "Americas",
-    "timezones": {
-      "America/Lima": "-05:00"
-    },
+
     "phone": ["+51"],
     "emoji": "🇵🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PE.svg",
@@ -1998,11 +1467,7 @@
   {
     "name": "French Polynesia",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Gambier": "-09:00",
-      "Pacific/Marquesas": "-09:30",
-      "Pacific/Tahiti": "-10:00"
-    },
+
     "phone": ["+689"],
     "emoji": "🇵🇫",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PF.svg",
@@ -2011,10 +1476,7 @@
   {
     "name": "Papua New Guinea",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Bougainville": "+11:00",
-      "Pacific/Port_Moresby": "+10:00"
-    },
+
     "phone": ["+675"],
     "emoji": "🇵🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PG.svg",
@@ -2023,9 +1485,7 @@
   {
     "name": "Philippines",
     "region": "Asia",
-    "timezones": {
-      "Asia/Manila": "+08:00"
-    },
+
     "phone": ["+63"],
     "emoji": "🇵🇭",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PH.svg",
@@ -2034,9 +1494,7 @@
   {
     "name": "Pakistan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Karachi": "+05:00"
-    },
+
     "phone": ["+92"],
     "emoji": "🇵🇰",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PK.svg",
@@ -2045,9 +1503,7 @@
   {
     "name": "Poland",
     "region": "Europe",
-    "timezones": {
-      "Europe/Warsaw": "+02:00"
-    },
+
     "phone": ["+48"],
     "emoji": "🇵🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg",
@@ -2056,9 +1512,7 @@
   {
     "name": "Saint Pierre and Miquelon",
     "region": "Americas",
-    "timezones": {
-      "America/Miquelon": "-02:00"
-    },
+
     "phone": ["+508"],
     "emoji": "🇵🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PM.svg",
@@ -2067,9 +1521,7 @@
   {
     "name": "Pitcairn",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Pitcairn": "-08:00"
-    },
+
     "phone": ["+870"],
     "emoji": "🇵🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PN.svg",
@@ -2078,9 +1530,6 @@
   {
     "name": "Puerto Rico",
     "region": "Americas",
-    "timezones": {
-      "America/Puerto_Rico": "-04:00"
-    },
     "phone": ["+1-787", "+1-939"],
     "emoji": "🇵🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PR.svg",
@@ -2089,10 +1538,7 @@
   {
     "name": "Palestine, State of",
     "region": "Asia",
-    "timezones": {
-      "Asia/Gaza": "+02:00",
-      "Asia/Hebron": "+02:00"
-    },
+
     "phone": ["+970"],
     "emoji": "🇵🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PS.svg",
@@ -2101,11 +1547,7 @@
   {
     "name": "Portugal",
     "region": "Europe",
-    "timezones": {
-      "Atlantic/Azores": "+00:00",
-      "Atlantic/Madeira": "+01:00",
-      "Europe/Lisbon": "+01:00"
-    },
+
     "phone": ["+351"],
     "emoji": "🇵🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg",
@@ -2114,9 +1556,7 @@
   {
     "name": "Palau",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Palau": "+09:00"
-    },
+
     "phone": ["+680"],
     "emoji": "🇵🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PW.svg",
@@ -2125,9 +1565,7 @@
   {
     "name": "Paraguay",
     "region": "Americas",
-    "timezones": {
-      "America/Asuncion": "-04:00"
-    },
+
     "phone": ["+595"],
     "emoji": "🇵🇾",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PY.svg",
@@ -2136,9 +1574,6 @@
   {
     "name": "Qatar",
     "region": "Asia",
-    "timezones": {
-      "Asia/Qatar": "+03:00"
-    },
     "phone": ["+974"],
     "emoji": "🇶🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg",
@@ -2147,9 +1582,7 @@
   {
     "name": "Réunion",
     "region": "Africa",
-    "timezones": {
-      "Indian/Reunion": "+04:00"
-    },
+
     "phone": ["+262"],
     "emoji": "🇷🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RE.svg",
@@ -2158,9 +1591,7 @@
   {
     "name": "Romania",
     "region": "Europe",
-    "timezones": {
-      "Europe/Bucharest": "+03:00"
-    },
+
     "phone": ["+40"],
     "emoji": "🇷🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg",
@@ -2169,9 +1600,7 @@
   {
     "name": "Serbia",
     "region": "Europe",
-    "timezones": {
-      "Europe/Belgrade": "+02:00"
-    },
+
     "phone": ["+381"],
     "emoji": "🇷🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg",
@@ -2180,34 +1609,7 @@
   {
     "name": "Russian Federation",
     "region": "Europe",
-    "timezones": {
-      "Asia/Anadyr": "+12:00",
-      "Asia/Barnaul": "+07:00",
-      "Asia/Chita": "+09:00",
-      "Asia/Irkutsk": "+08:00",
-      "Asia/Kamchatka": "+12:00",
-      "Asia/Khandyga": "+09:00",
-      "Asia/Krasnoyarsk": "+07:00",
-      "Asia/Magadan": "+11:00",
-      "Asia/Novokuznetsk": "+07:00",
-      "Asia/Novosibirsk": "+07:00",
-      "Asia/Omsk": "+06:00",
-      "Asia/Sakhalin": "+11:00",
-      "Asia/Srednekolymsk": "+11:00",
-      "Asia/Tomsk": "+07:00",
-      "Asia/Ust-Nera": "+10:00",
-      "Asia/Vladivostok": "+10:00",
-      "Asia/Yakutsk": "+09:00",
-      "Asia/Yekaterinburg": "+05:00",
-      "Europe/Astrakhan": "+04:00",
-      "Europe/Kaliningrad": "+02:00",
-      "Europe/Kirov": "+03:00",
-      "Europe/Moscow": "+03:00",
-      "Europe/Samara": "+04:00",
-      "Europe/Saratov": "+04:00",
-      "Europe/Ulyanovsk": "+04:00",
-      "Europe/Volgograd": "+03:00"
-    },
+
     "phone": ["+7"],
     "emoji": "🇷🇺",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg",
@@ -2216,9 +1618,7 @@
   {
     "name": "Rwanda",
     "region": "Africa",
-    "timezones": {
-      "Africa/Kigali": "+02:00"
-    },
+
     "phone": ["+250"],
     "emoji": "🇷🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg",
@@ -2227,9 +1627,7 @@
   {
     "name": "Saudi Arabia",
     "region": "Asia",
-    "timezones": {
-      "Asia/Riyadh": "+03:00"
-    },
+
     "phone": ["+966"],
     "emoji": "🇸🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg",
@@ -2238,9 +1636,7 @@
   {
     "name": "Solomon Islands",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Guadalcanal": "+11:00"
-    },
+
     "phone": ["+677"],
     "emoji": "🇸🇧",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SB.svg",
@@ -2249,9 +1645,7 @@
   {
     "name": "Seychelles",
     "region": "Africa",
-    "timezones": {
-      "Indian/Mahe": "+04:00"
-    },
+
     "phone": ["+248"],
     "emoji": "🇸🇨",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SC.svg",
@@ -2260,9 +1654,7 @@
   {
     "name": "Sudan",
     "region": "Africa",
-    "timezones": {
-      "Africa/Khartoum": "+02:00"
-    },
+
     "phone": ["+249"],
     "emoji": "🇸🇩",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SD.svg",
@@ -2271,9 +1663,7 @@
   {
     "name": "Sweden",
     "region": "Europe",
-    "timezones": {
-      "Europe/Stockholm": "+02:00"
-    },
+
     "phone": ["+46"],
     "emoji": "🇸🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SE.svg",
@@ -2282,9 +1672,6 @@
   {
     "name": "Singapore",
     "region": "Asia",
-    "timezones": {
-      "Asia/Singapore": "+08:00"
-    },
     "phone": ["+65"],
     "emoji": "🇸🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SG.svg",
@@ -2293,9 +1680,7 @@
   {
     "name": "Saint Helena, Ascension and Tristan da Cunha",
     "region": "Africa",
-    "timezones": {
-      "Atlantic/St_Helena": "+00:00"
-    },
+
     "phone": ["+290"],
     "emoji": "🇸🇭",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SH.svg",
@@ -2304,9 +1689,7 @@
   {
     "name": "Slovenia",
     "region": "Europe",
-    "timezones": {
-      "Europe/Ljubljana": "+02:00"
-    },
+
     "phone": ["+386"],
     "emoji": "🇸🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg",
@@ -2315,9 +1698,6 @@
   {
     "name": "Svalbard and Jan Mayen",
     "region": "Europe",
-    "timezones": {
-      "Arctic/Longyearbyen": "+02:00"
-    },
     "phone": ["+47"],
     "emoji": "🇸🇯",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SJ.svg",
@@ -2326,9 +1706,6 @@
   {
     "name": "Slovakia",
     "region": "Europe",
-    "timezones": {
-      "Europe/Bratislava": "+02:00"
-    },
     "phone": ["+421"],
     "emoji": "🇸🇰",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg",
@@ -2337,9 +1714,6 @@
   {
     "name": "Sierra Leone",
     "region": "Africa",
-    "timezones": {
-      "Africa/Freetown": "+00:00"
-    },
     "phone": ["+232"],
     "emoji": "🇸🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SL.svg",
@@ -2348,9 +1722,6 @@
   {
     "name": "San Marino",
     "region": "Europe",
-    "timezones": {
-      "Europe/San_Marino": "+02:00"
-    },
     "phone": ["+378"],
     "emoji": "🇸🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SM.svg",
@@ -2359,9 +1730,6 @@
   {
     "name": "Senegal",
     "region": "Africa",
-    "timezones": {
-      "Africa/Dakar": "+00:00"
-    },
     "phone": ["+221"],
     "emoji": "🇸🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg",
@@ -2370,9 +1738,6 @@
   {
     "name": "Somalia",
     "region": "Africa",
-    "timezones": {
-      "Africa/Mogadishu": "+03:00"
-    },
     "phone": ["+252"],
     "emoji": "🇸🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SO.svg",
@@ -2381,9 +1746,6 @@
   {
     "name": "Suriname",
     "region": "Americas",
-    "timezones": {
-      "America/Paramaribo": "-03:00"
-    },
     "phone": ["+597"],
     "emoji": "🇸🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SR.svg",
@@ -2392,9 +1754,6 @@
   {
     "name": "South Sudan",
     "region": "Africa",
-    "timezones": {
-      "Africa/Juba": "+02:00"
-    },
     "phone": ["+211"],
     "emoji": "🇸🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SS.svg",
@@ -2403,9 +1762,6 @@
   {
     "name": "Sao Tome and Principe",
     "region": "Africa",
-    "timezones": {
-      "Africa/Sao_Tome": "+00:00"
-    },
     "phone": ["+239"],
     "emoji": "🇸🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ST.svg",
@@ -2414,9 +1770,6 @@
   {
     "name": "El Salvador",
     "region": "Americas",
-    "timezones": {
-      "America/El_Salvador": "-06:00"
-    },
     "phone": ["+503"],
     "emoji": "🇸🇻",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SV.svg",
@@ -2425,9 +1778,6 @@
   {
     "name": "Sint Maarten (Dutch part)",
     "region": "Americas",
-    "timezones": {
-      "America/Lower_Princes": "-04:00"
-    },
     "phone": ["+599"],
     "emoji": "🇸🇽",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SX.svg",
@@ -2436,9 +1786,6 @@
   {
     "name": "Syrian Arab Republic",
     "region": "Asia",
-    "timezones": {
-      "Asia/Damascus": "+03:00"
-    },
     "phone": ["+963"],
     "emoji": "🇸🇾",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SY.svg",
@@ -2447,9 +1794,6 @@
   {
     "name": "Swaziland",
     "region": "Africa",
-    "timezones": {
-      "Africa/Mbabane": "+02:00"
-    },
     "phone": ["+268"],
     "emoji": "🇸🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SZ.svg",
@@ -2458,9 +1802,6 @@
   {
     "name": "Turks and Caicos Islands",
     "region": "Americas",
-    "timezones": {
-      "America/Grand_Turk": "-04:00"
-    },
     "phone": ["+1-649"],
     "emoji": "🇹🇨",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TC.svg",
@@ -2469,9 +1810,6 @@
   {
     "name": "Chad",
     "region": "Africa",
-    "timezones": {
-      "Africa/Ndjamena": "+01:00"
-    },
     "phone": ["+235"],
     "emoji": "🇹🇩",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TD.svg",
@@ -2480,9 +1818,6 @@
   {
     "name": "French Southern Territories",
     "region": "Africa",
-    "timezones": {
-      "Indian/Kerguelen": "+05:00"
-    },
     "phone": ["+"],
     "emoji": "🇹🇫",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TF.svg",
@@ -2491,9 +1826,6 @@
   {
     "name": "Togo",
     "region": "Africa",
-    "timezones": {
-      "Africa/Lome": "+00:00"
-    },
     "phone": ["+228"],
     "emoji": "🇹🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg",
@@ -2502,9 +1834,6 @@
   {
     "name": "Thailand",
     "region": "Asia",
-    "timezones": {
-      "Asia/Bangkok": "+07:00"
-    },
     "phone": ["+66"],
     "emoji": "🇹🇭",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg",
@@ -2513,9 +1842,6 @@
   {
     "name": "Tajikistan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Dushanbe": "+05:00"
-    },
     "phone": ["+992"],
     "emoji": "🇹🇯",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg",
@@ -2524,9 +1850,6 @@
   {
     "name": "Tokelau",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Fakaofo": "+13:00"
-    },
     "phone": ["+690"],
     "emoji": "🇹🇰",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TK.svg",
@@ -2535,9 +1858,6 @@
   {
     "name": "Timor-Leste",
     "region": "Asia",
-    "timezones": {
-      "Asia/Dili": "+09:00"
-    },
     "phone": ["+670"],
     "emoji": "🇹🇱",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TL.svg",
@@ -2546,9 +1866,6 @@
   {
     "name": "Turkmenistan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Ashgabat": "+05:00"
-    },
     "phone": ["+993"],
     "emoji": "🇹🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg",
@@ -2557,9 +1874,6 @@
   {
     "name": "Tunisia",
     "region": "Africa",
-    "timezones": {
-      "Africa/Tunis": "+01:00"
-    },
     "phone": ["+216"],
     "emoji": "🇹🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg",
@@ -2568,9 +1882,6 @@
   {
     "name": "Tonga",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Tongatapu": "+13:00"
-    },
     "phone": ["+676"],
     "emoji": "🇹🇴",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TO.svg",
@@ -2579,9 +1890,6 @@
   {
     "name": "Turkey",
     "region": "Asia",
-    "timezones": {
-      "Europe/Istanbul": "+03:00"
-    },
     "phone": ["+90"],
     "emoji": "🇹🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg",
@@ -2590,9 +1898,6 @@
   {
     "name": "Trinidad and Tobago",
     "region": "Americas",
-    "timezones": {
-      "America/Port_of_Spain": "-04:00"
-    },
     "phone": ["+1-868"],
     "emoji": "🇹🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg",
@@ -2601,9 +1906,6 @@
   {
     "name": "Tuvalu",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Funafuti": "+12:00"
-    },
     "phone": ["+688"],
     "emoji": "🇹🇻",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TV.svg",
@@ -2612,9 +1914,6 @@
   {
     "name": "Taiwan, Province of China",
     "region": "Asia",
-    "timezones": {
-      "Asia/Taipei": "+08:00"
-    },
     "phone": ["+886"],
     "emoji": "🇹🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TW.svg",
@@ -2623,9 +1922,6 @@
   {
     "name": "Tanzania, United Republic of",
     "region": "Africa",
-    "timezones": {
-      "Africa/Dar_es_Salaam": "+03:00"
-    },
     "phone": ["+255"],
     "emoji": "🇹🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TZ.svg",
@@ -2634,10 +1930,6 @@
   {
     "name": "Ukraine",
     "region": "Europe",
-    "timezones": {
-      "Europe/Kyiv": "+03:00",
-      "Europe/Simferopol": "+03:00"
-    },
     "phone": ["+380"],
     "emoji": "🇺🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg",
@@ -2646,9 +1938,6 @@
   {
     "name": "Uganda",
     "region": "Africa",
-    "timezones": {
-      "Africa/Kampala": "+03:00"
-    },
     "phone": ["+256"],
     "emoji": "🇺🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UG.svg",
@@ -2657,37 +1946,6 @@
   {
     "name": "United States",
     "region": "Americas",
-    "timezones": {
-      "America/Adak": "-09:00",
-      "America/Anchorage": "-08:00",
-      "America/Boise": "-06:00",
-      "America/Chicago": "-05:00",
-      "America/Denver": "-06:00",
-      "America/Detroit": "-04:00",
-      "America/Indiana/Indianapolis": "-04:00",
-      "America/Indiana/Knox": "-05:00",
-      "America/Indiana/Marengo": "-04:00",
-      "America/Indiana/Petersburg": "-04:00",
-      "America/Indiana/Tell_City": "-05:00",
-      "America/Indiana/Vevay": "-04:00",
-      "America/Indiana/Vincennes": "-04:00",
-      "America/Indiana/Winamac": "-04:00",
-      "America/Juneau": "-08:00",
-      "America/Kentucky/Louisville": "-04:00",
-      "America/Kentucky/Monticello": "-04:00",
-      "America/Los_Angeles": "-07:00",
-      "America/Menominee": "-05:00",
-      "America/Metlakatla": "-08:00",
-      "America/New_York": "-04:00",
-      "America/Nome": "-08:00",
-      "America/North_Dakota/Beulah": "-05:00",
-      "America/North_Dakota/Center": "-05:00",
-      "America/North_Dakota/New_Salem": "-05:00",
-      "America/Phoenix": "-07:00",
-      "America/Sitka": "-08:00",
-      "America/Yakutat": "-08:00",
-      "Pacific/Honolulu": "-10:00"
-    },
     "phone": ["+1"],
     "emoji": "🇺🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg",
@@ -2696,9 +1954,6 @@
   {
     "name": "Uruguay",
     "region": "Americas",
-    "timezones": {
-      "America/Montevideo": "-03:00"
-    },
     "phone": ["+598"],
     "emoji": "🇺🇾",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UY.svg",
@@ -2707,10 +1962,6 @@
   {
     "name": "Uzbekistan",
     "region": "Asia",
-    "timezones": {
-      "Asia/Samarkand": "+05:00",
-      "Asia/Tashkent": "+05:00"
-    },
     "phone": ["+998"],
     "emoji": "🇺🇿",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg",
@@ -2719,9 +1970,6 @@
   {
     "name": "Holy See (Vatican City State)",
     "region": "Europe",
-    "timezones": {
-      "Europe/Vatican": "+02:00"
-    },
     "phone": ["+379"],
     "emoji": "🇻🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VA.svg",
@@ -2730,9 +1978,6 @@
   {
     "name": "Saint Vincent and the Grenadines",
     "region": "Americas",
-    "timezones": {
-      "America/St_Vincent": "-04:00"
-    },
     "phone": ["+1-784"],
     "emoji": "🇻🇨",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VC.svg",
@@ -2741,9 +1986,6 @@
   {
     "name": "Venezuela, Bolivarian Republic of",
     "region": "Americas",
-    "timezones": {
-      "America/Caracas": "-04:00"
-    },
     "phone": ["+58"],
     "emoji": "🇻🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VE.svg",
@@ -2752,9 +1994,6 @@
   {
     "name": "Virgin Islands, British",
     "region": "Americas",
-    "timezones": {
-      "America/Tortola": "-04:00"
-    },
     "phone": ["+1-284"],
     "emoji": "🇻🇬",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VG.svg",
@@ -2763,9 +2002,6 @@
   {
     "name": "Virgin Islands, U.S.",
     "region": "Americas",
-    "timezones": {
-      "America/St_Thomas": "-04:00"
-    },
     "phone": ["+1-340"],
     "emoji": "🇻🇮",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VI.svg",
@@ -2774,9 +2010,6 @@
   {
     "name": "Viet Nam",
     "region": "Asia",
-    "timezones": {
-      "Asia/Ho_Chi_Minh": "+07:00"
-    },
     "phone": ["+84"],
     "emoji": "🇻🇳",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg",
@@ -2785,9 +2018,6 @@
   {
     "name": "Vanuatu",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Efate": "+11:00"
-    },
     "phone": ["+678"],
     "emoji": "🇻🇺",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VU.svg",
@@ -2796,9 +2026,6 @@
   {
     "name": "Wallis and Futuna",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Wallis": "+12:00"
-    },
     "phone": ["+681"],
     "emoji": "🇼🇫",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WF.svg",
@@ -2807,9 +2034,6 @@
   {
     "name": "Samoa",
     "region": "Oceania",
-    "timezones": {
-      "Pacific/Apia": "+13:00"
-    },
     "phone": ["+685"],
     "emoji": "🇼🇸",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg",
@@ -2819,9 +2043,6 @@
   {
     "name": "Yemen",
     "region": "Asia",
-    "timezones": {
-      "Asia/Aden": "+03:00"
-    },
     "phone": ["+967"],
     "emoji": "🇾🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YE.svg",
@@ -2830,9 +2051,6 @@
   {
     "name": "Mayotte",
     "region": "Africa",
-    "timezones": {
-      "Indian/Mayotte": "+03:00"
-    },
     "phone": ["+262"],
     "emoji": "🇾🇹",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YT.svg",
@@ -2841,9 +2059,6 @@
   {
     "name": "South Africa",
     "region": "Africa",
-    "timezones": {
-      "Africa/Johannesburg": "+02:00"
-    },
     "phone": ["+27"],
     "emoji": "🇿🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZA.svg",
@@ -2852,9 +2067,6 @@
   {
     "name": "Zambia",
     "region": "Africa",
-    "timezones": {
-      "Africa/Lusaka": "+02:00"
-    },
     "phone": ["+260"],
     "emoji": "🇿🇲",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZM.svg",
@@ -2863,9 +2075,6 @@
   {
     "name": "Zimbabwe",
     "region": "Africa",
-    "timezones": {
-      "Africa/Harare": "+02:00"
-    },
     "phone": ["+263"],
     "emoji": "🇿🇼",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZW.svg",

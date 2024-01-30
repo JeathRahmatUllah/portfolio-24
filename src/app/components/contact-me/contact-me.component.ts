@@ -18,7 +18,13 @@ export class ContactMeComponent implements OnInit {
 
   public selectedCountry = 0;
 
+  public phoneCode = "";
+  public maxPhoneLen = 0;
+
   countries: any[] = [];
+  filteredCountries: any[] = [];
+
+  countryListShown = false;
 
   public sendEmail(event: Event) {
     event.preventDefault();
@@ -62,5 +68,32 @@ export class ContactMeComponent implements OnInit {
 
   ngOnInit() {
     this.countries = countryCodes;
+    this.filteredCountries = countryCodes;
+  }
+
+  handlePhoneIpBoxFocus(){
+    console.log("pressed")
+    this.countryListShown = true;
+  }
+  handlePhoneIpBoxFocusOut(){
+    console.log("out")
+    setTimeout(()=>{
+      this.countryListShown = false;
+      this.filteredCountries = this.countries;
+    }, 500)
+  }
+  selectCountry(country : any){
+    // console.log(i)
+    // this.selectedCountry = i
+    this.phoneCode = country.phone[0];
+    this.maxPhoneLen = country.phoneLength;
+  }
+  handlePhoneType(event: any){
+    console.log(event.target.value)
+    const val = event.target.value;
+
+    this.filteredCountries = this.countries.filter((item)=> {
+      return item.phone[0].includes(val);
+    })
   }
 }
