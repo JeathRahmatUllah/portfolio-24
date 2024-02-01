@@ -3,22 +3,22 @@ import emailjs, { EmailJSResponseStatus } from '@emailjs/browser';
 import { CommonModule } from '@angular/common';
 import countryCodes from '../../../../data/countryCodesNew.json';
 import { FormsModule } from '@angular/forms';
-emailjs.init('aFEIOhltbeJE9Tmnf');
 
+emailjs.init('aFEIOhltbeJE9Tmnf');
 
 @Component({
   selector: 'app-contact-me',
   standalone: true,
   imports: [CommonModule, ContactMeComponent, FormsModule],
   templateUrl: './contact-me.component.html',
-  styleUrl: './contact-me.component.css'
+  styleUrl: './contact-me.component.css',
 })
 export class ContactMeComponent implements OnInit {
   public successMessage: string = '';
 
   public selectedCountry = 0;
 
-  public phoneCode = "";
+  public phoneCode = '';
   public maxPhoneLen = 0;
 
   countries: any[] = [];
@@ -26,22 +26,31 @@ export class ContactMeComponent implements OnInit {
 
   countryListShown = false;
 
+  public formErrors: any = {};
+
   public sendEmail(event: Event) {
     event.preventDefault();
 
     const form = event.target as HTMLFormElement;
     const requiredFields = ['user_name', 'user_email', 'phone_number'];
 
-    // Validate required fields
-    const isValid = requiredFields.every((fieldName) => {
-      const field = form.elements.namedItem(fieldName);
+    // Reset form errors
+    this.formErrors = {};
 
-      return (field as HTMLInputElement).value.trim() !== '';
+    // Validate required fields and show error messages
+    requiredFields.forEach((fieldName) => {
+      const field = form.elements.namedItem(fieldName);
+      const value = (field as HTMLInputElement).value.trim();
+
+      if (value === '') {
+        this.formErrors[fieldName] = 'This field is required';
+      }
     });
 
-    if (!isValid) {
-      // Display an error message to the user
-      alert('Please fill in all required fields.');
+    // Check if any errors exist
+    const hasErrors = Object.keys(this.formErrors).length > 0;
+
+    if (hasErrors) {
       return;
     }
 
@@ -63,7 +72,7 @@ export class ContactMeComponent implements OnInit {
         }
       );
 
-    // form.reset(); 
+    form.reset();
   }
 
   ngOnInit() {
@@ -71,29 +80,29 @@ export class ContactMeComponent implements OnInit {
     this.filteredCountries = countryCodes;
   }
 
-  handlePhoneIpBoxFocus(){
-    console.log("pressed")
+  handlePhoneIpBoxFocus() {
+    console.log('pressed');
     this.countryListShown = true;
   }
-  handlePhoneIpBoxFocusOut(){
-    console.log("out")
-    setTimeout(()=>{
+  handlePhoneIpBoxFocusOut() {
+    console.log('out');
+    setTimeout(() => {
       this.countryListShown = false;
       this.filteredCountries = this.countries;
-    }, 500)
+    }, 500);
   }
-  selectCountry(country : any){
+  selectCountry(country: any) {
     // console.log(i)
     // this.selectedCountry = i
     this.phoneCode = country.phone[0];
     this.maxPhoneLen = country.phoneLength;
   }
-  handlePhoneType(event: any){
-    console.log(event.target.value)
+  handlePhoneType(event: any) {
+    console.log(event.target.value);
     const val = event.target.value;
 
-    this.filteredCountries = this.countries.filter((item)=> {
+    this.filteredCountries = this.countries.filter((item) => {
       return item.phone[0].includes(val);
-    })
+    });
   }
 }

@@ -12,6 +12,8 @@ export class BlogsComponent {
   showFullContent: boolean = false;
   showFullContent2: boolean = false;
   showFullContent3: boolean = false;
+  showFullContent4: boolean = false;
+
 
   toggleContent() {
     this.showFullContent = !this.showFullContent;
@@ -21,6 +23,9 @@ export class BlogsComponent {
   }
   toggleContent3() {
     this.showFullContent3 = !this.showFullContent3;
+  }
+  toggleContent4() {
+    this.showFullContent4 = !this.showFullContent4;
   }
 
 

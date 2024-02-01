@@ -10,7 +10,6 @@
   {
     "name": "United Arab Emirates",
     "region": "Asia",
-
     "phone": ["+971"],
     "emoji": "🇦🇪",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg",
@@ -86,7 +85,7 @@
     "phone": ["+54"],
     "emoji": "🇦🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg",
-    "phoneLength": [6, 7, 8]
+    "phoneLength": 8
   },
   {
     "name": "American Samoa",
@@ -1018,7 +1017,7 @@
     "phone": ["+850"],
     "emoji": "🇰🇵",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg",
-    "phoneLength": [4, 6, 7, 13]
+    "phoneLength": 7
   },
   {
     "name": "Korea, Republic of",
@@ -1026,7 +1025,7 @@
     "phone": ["+82"],
     "emoji": "🇰🇷",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg",
-    "phoneLength": [7, 8]
+    "phoneLength": 8
   },
   {
     "name": "Kuwait",
@@ -1058,7 +1057,7 @@
     "phone": ["+856"],
     "emoji": "🇱🇦",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg",
-    "phoneLength": [8, 9]
+    "phoneLength": 9
   },
   {
     "name": "Lebanon",
@@ -1066,7 +1065,7 @@
     "phone": ["+961"],
     "emoji": "🇱🇧",
     "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg",
-    "phoneLength": [7, 8]
+    "phoneLength": 8
   },
   {
     "name": "Saint Lucia",
